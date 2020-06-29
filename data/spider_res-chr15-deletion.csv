@@ -1,0 +1,639 @@
+Patient,chromosome,location_start,location_end,Sex,Size,Overlap,Genes in common,Functional Similarity,Genotype / Class,Inheritance,Phenotypes,class/mean_ratio
+248419,chr15,22784523,28525460,46XY,5.74 Mb,5.65 Mb,119,1.0,Heterozygous Deletion,De novo constitutive,Intellectual disability; Seizures,Deletion-0.85
+253279,chr15,22784523,28525460,46XX,5.74 Mb,5.65 Mb,119,1.0,Heterozygous Deletion,De novo constitutive,,Deletion-1
+249961,chr15,22784523,28525460,46XX,5.74 Mb,5.65 Mb,119,1.0,Heterozygous Deletion,De novo constitutive,,Deletion-1
+261487,chr15,22784523,28525460,46XX,5.74 Mb,5.65 Mb,119,1.0,Heterozygous Deletion,Unknown,,Deletion-1
+263198,chr15,22765437,28559578,46XY,5.79 Mb,5.67 Mb,119,1.0,Heterozygous Deletion,Unknown,Muscular hypotonia,Deletion-1
+275732,chr15,22784523,28525460,46XY,5.74 Mb,5.65 Mb,119,1.0,Heterozygous Deletion,De novo constitutive,Abnormal pyramidal sign; Cerebellar ataxia associated with quadrupedal gait; Infantile axial hypotonia; Moderate global developmental delay,Deletion-1
+306147,chr15,22784523,28525460,46XY,5.74 Mb,5.65 Mb,119,1.0,Heterozygous Deletion,Unknown,Global developmental delay,Deletion-1
+327602,chr15,22754322,28536634,46XY,5.78 Mb,5.68 Mb,119,1.0,Heterozygous Deletion,Unknown,,Deletion-1
+327607,chr15,22754322,28536634,46XX,5.78 Mb,5.68 Mb,119,1.0,Heterozygous Deletion,Unknown,,Deletion-1
+327617,chr15,22754322,28566630,46XY,5.81 Mb,5.68 Mb,119,1.0,Heterozygous Deletion,Unknown,,Deletion-1
+338704,chr15,22784523,28525460,46XY,5.74 Mb,5.65 Mb,119,1.0,Heterozygous Deletion,Unknown,Abnormal social behavior; Global developmental delay; Neonatal hypotonia,Deletion-1
+349599,chr15,22784523,28525460,46XY,5.74 Mb,5.65 Mb,119,1.0,Heterozygous Deletion,Unknown,Neonatal hypotonia,Deletion-1
+370486,chr15,22765628,28535051,46XY,5.77 Mb,5.67 Mb,119,1.0,Heterozygous Deletion,Unknown,,Deletion
+323960,chr15,22765628,27783485,46XX,5.02 Mb,5.02 Mb,116,0.99,Heterozygous Deletion,De novo constitutive,Generalized neonatal hypotonia,Deletion-1
+349608,chr15,22699701,28525460,46XY,5.83 Mb,5.69 Mb,119,0.99,Heterozygous Deletion,Unknown,Inappropriate laughter; Infantile axial hypotonia,Deletion-1
+293832,chr15,22762571,28680969,46XY,5.92 Mb,5.68 Mb,119,0.98,Heterozygous Deletion,Unknown,,Deletion-1
+318763,chr15,22770421,28723454,46XX,5.95 Mb,5.67 Mb,119,0.98,Heterozygous Deletion,De novo constitutive,Muscular hypotonia,Deletion-1
+331401,chr15,22746230,28795723,46XX,6.05 Mb,5.69 Mb,119,0.96,Heterozygous Deletion,Unknown,Feeding difficulties in infancy; Abnormality of the face; Generalized hypotonia; Retrognathia,Deletion-0.8448
+275144,chr15,22765428,29031890,46XY,6.27 Mb,5.67 Mb,119,0.95,Heterozygous Deletion,Unknown,Global developmental delay; Hypermetropia; Insomnia,Deletion-1
+288935,chr15,22373311,28559437,unknown,6.19 Mb,5.69 Mb,119,0.95,Heterozygous Deletion,Unknown,Muscular hypotonia; Micrognathia,Deletion-0.897218
+368663,chr15,22765628,29031749,46XX,6.27 Mb,5.67 Mb,119,0.95,Heterozygous Deletion,Unknown,Limb hypertonia; Muscular hypotonia of the trunk; Plagiocephaly,Deletion
+263929,chr15,23576198,28525460,46XY,4.95 Mb,4.86 Mb,106,0.94,Heterozygous Deletion,Unknown,,Deletion-1
+288719,chr15,22652047,28940068,unknown,6.29 Mb,5.69 Mb,119,0.94,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability,Deletion-0.891411
+289390,chr15,23586243,28559437,unknown,4.97 Mb,4.85 Mb,106,0.94,Heterozygous Deletion,Unknown,Global developmental delay,Deletion-0.859529
+327127,chr15,23576906,28542402,46XX,4.97 Mb,4.86 Mb,106,0.94,Heterozygous Deletion,Unknown,"Anxiety; Diplopia; Hypopigmentation of the skin; Infantile muscular hypotonia; Intellectual disability, severe; Mandibular prognathia; Protruding tongue; Seizures; Upslanted palpebral fissure",Deletion-0.79200000000000004
+331250,chr15,22652047,28859765,46XX,6.21 Mb,5.69 Mb,119,0.94,Heterozygous Deletion,Unknown,Global developmental delay,Deletion-0.8571
+401001,chr15,22862751,29013414,46XY,6.15 Mb,5.58 Mb,118,0.94,Heterozygous Deletion,De novo constitutive,Intellectual disability; Muscular hypotonia; Anteverted nares; Atopic dermatitis; Conspicuously happy disposition; Deeply set eye; EEG abnormality; Large earlobe; Microcephaly; Periorbital fullness; Pregnancy exposure; Short palpebral fissure; Thin upper lip vermilion; Uplifted earlobe,Deletion-0.5
+1639,chr15,23739358,28525460,46XY,4.79 Mb,4.70 Mb,103,0.93,Heterozygous Deletion,De novo constitutive,Intellectual disability; Muscular hypotonia; 2-3 toe syndactyly; Aganglionic megacolon; Ataxia; Hypospadias; Inguinal hernia; Seizures; Sleep disturbance,Deletion-1
+258887,chr15,23656936,28525460,46XX,4.87 Mb,4.78 Mb,104,0.93,Heterozygous Deletion,De novo constitutive,,Deletion-1
+263213,chr15,23699701,28525460,46XY,4.83 Mb,4.74 Mb,103,0.93,Heterozygous Deletion,Unknown,,Deletion-1
+267930,chr15,23739298,28525520,46XY,4.79 Mb,4.70 Mb,103,0.93,Heterozygous Deletion,De novo constitutive,Feeding difficulties in infancy; Muscular hypotonia,Deletion-1
+268117,chr15,23656936,28525401,46XX,4.87 Mb,4.78 Mb,104,0.93,Heterozygous Deletion,De novo constitutive,,Deletion-1
+275721,chr15,23739358,28525460,46XX,4.79 Mb,4.70 Mb,103,0.93,Heterozygous Deletion,Unknown,Dystonia; Focal-onset seizure; Global developmental delay,Deletion-1
+277268,chr15,22558697,29031749,46XY,6.47 Mb,5.69 Mb,119,0.93,Heterozygous Deletion,Unknown,,Deletion-1
+277814,chr15,23707481,28559372,46XX,4.85 Mb,4.73 Mb,103,0.93,Heterozygous Deletion,Unknown,,Deletion-0.882
+282266,chr15,23636820,28527171,46XX,4.89 Mb,4.80 Mb,104,0.93,Heterozygous Deletion,De novo constitutive,Brain atrophy; Decreased fetal movement; Global developmental delay; Inappropriate crying; Inguinal hernia; Obesity; Seizures; Unsteady gait,Deletion-1
+286422,chr15,23739358,28525460,46XX,4.79 Mb,4.70 Mb,103,0.93,Heterozygous Deletion,Unknown,"Intellectual disability, moderate; Obesity",Deletion-1
+287216,chr15,23699701,28525460,46XY,4.83 Mb,4.74 Mb,103,0.93,Heterozygous Deletion,De novo constitutive,Global developmental delay,Deletion-1
+287335,chr15,23699701,28525460,46XY,4.83 Mb,4.74 Mb,103,0.93,Heterozygous Deletion,Unknown,,Deletion-1
+288593,chr15,23696641,28559437,unknown,4.86 Mb,4.74 Mb,103,0.93,Heterozygous Deletion,Unknown,Intellectual disability; Spasticity,Deletion-0.909967
+288738,chr15,23620374,28526437,unknown,4.91 Mb,4.82 Mb,104,0.93,Heterozygous Deletion,De novo constitutive,Intellectual disability; Seizures,Deletion-0.874103
+290887,chr15,23620191,28560803,46XX,4.94 Mb,4.82 Mb,104,0.93,Heterozygous Deletion,De novo constitutive,Abnormality of the nervous system,Deletion-1
+292592,chr15,23739358,28525460,46XX,4.79 Mb,4.70 Mb,103,0.93,Heterozygous Deletion,Unknown,EEG abnormality; Global developmental delay,Deletion-1
+293833,chr15,23707494,28525454,46XY,4.82 Mb,4.73 Mb,103,0.93,Heterozygous Deletion,Unknown,,Deletion-1
+300676,chr15,23699701,28525460,unknown,4.83 Mb,4.74 Mb,103,0.93,Heterozygous Deletion,De novo constitutive,Intellectual disability; Microcephaly,Deletion-1
+303544,chr15,23739358,28525460,46XY,4.79 Mb,4.70 Mb,103,0.93,Heterozygous Deletion,Unknown,Muscular hypotonia,Deletion-1
+306104,chr15,23739358,28525460,46XX,4.79 Mb,4.70 Mb,103,0.93,Heterozygous Deletion,Unknown,Muscular hypotonia; Cognitive impairment; Obesity; Strabismus,Deletion-1
+307868,chr15,23656965,28559372,46XY,4.90 Mb,4.78 Mb,104,0.93,Heterozygous Deletion,De novo constitutive,,Deletion-0.835
+314831,chr15,23699701,28524460,46XX,4.82 Mb,4.74 Mb,103,0.93,Heterozygous Deletion,De novo constitutive,Global developmental delay,Deletion-1
+322441,chr15,22558757,29031689,46XX,6.47 Mb,5.69 Mb,119,0.93,Heterozygous Deletion,Unknown,Feeding difficulties in infancy; Central hypotonia; Failure to thrive; Small for gestational age,Deletion-0.8903
+331134,chr15,23620374,28526437,46XY,4.91 Mb,4.82 Mb,104,0.93,Heterozygous Deletion,Unknown,Global developmental delay; Microcephaly,Deletion-0.8551
+331224,chr15,23620374,28526437,46XX,4.91 Mb,4.82 Mb,104,0.93,Heterozygous Deletion,Unknown,Global developmental delay; Microcephaly,Deletion-0.864
+331346,chr15,23620374,28559437,46XY,4.94 Mb,4.82 Mb,104,0.93,Heterozygous Deletion,De novo constitutive,Global developmental delay,Deletion-0.8314
+340179,chr15,23739358,28525460,46XX,4.79 Mb,4.70 Mb,103,0.93,Heterozygous Deletion,Unknown,Neonatal hypotonia; Sandal gap; Single transverse palmar crease,Deletion-1
+341853,chr15,23707452,28559402,46XX,4.85 Mb,4.73 Mb,103,0.93,Heterozygous Deletion,Unknown,,Deletion-0.715036
+356346,chr15,23620191,28545504,46XY,4.93 Mb,4.82 Mb,104,0.93,Heterozygous Deletion,De novo constitutive,Encephalopathy; Global developmental delay; Hypertonia; Inguinal hernia; Language impairment; Microcephaly; Seizures; Vocal cord paresis,Deletion-1
+368668,chr15,23662509,28535051,46XX,4.87 Mb,4.78 Mb,104,0.93,Heterozygous Deletion,Unknown,Abnormal facial shape; Intrauterine growth retardation; Neonatal hypotonia; Postnatal growth retardation,Deletion
+369752,chr15,23739358,28525460,46XY,4.79 Mb,4.70 Mb,103,0.93,Heterozygous Deletion,Unknown,,Deletion-0.72
+370084,chr15,23620191,28545355,46XX,4.93 Mb,4.82 Mb,104,0.93,Heterozygous Deletion,De novo constitutive,Intellectual disability; Seizures,Deletion
+387297,chr15,23656936,28520313,46XX,4.86 Mb,4.78 Mb,104,0.93,Heterozygous Deletion,Unknown,Neonatal hypotonia; Slanting of the palpebral fissure; Thin vermilion border,Deletion-0.700
+290476,chr15,23739358,28119374,46XY,4.38 Mb,4.38 Mb,101,0.92,Heterozygous Deletion,De novo constitutive,Abnormal eating behavior; Abnormality of male external genitalia; Generalized hypotonia,Deletion-1
+301861,chr15,23739358,28026215,46XY,4.29 Mb,4.29 Mb,101,0.92,Heterozygous Deletion,Unknown,Generalized neonatal hypotonia,Deletion-1
+306379,chr15,23813289,28525460,unknown,4.71 Mb,4.62 Mb,102,0.92,Heterozygous Deletion,Unknown,,Deletion-1
+325759,chr15,23813289,28525460,46XX,4.71 Mb,4.62 Mb,102,0.92,Heterozygous Deletion,Unknown,Neonatal hypotonia,Deletion-1
+332223,chr15,23620191,28635058,46XY,5.01 Mb,4.82 Mb,104,0.92,Heterozygous Deletion,De novo constitutive,Bilateral cryptorchidism; Generalized hypotonia,Deletion-1
+333531,chr15,23208902,29006792,46XX,5.80 Mb,5.23 Mb,113,0.92,Heterozygous Deletion,De novo constitutive,,Deletion-1
+278371,chr15,22328923,27188127,46XY,4.86 Mb,4.44 Mb,113,0.91,Heterozygous Deletion,Unknown,,Deletion-1
+331403,chr15,23586243,28795723,46XY,5.21 Mb,4.85 Mb,106,0.91,Heterozygous Deletion,Unknown,Generalized neonatal hypotonia; Premature birth,Deletion-0.8498
+338768,chr15,23620191,28709715,46XY,5.09 Mb,4.82 Mb,104,0.91,Heterozygous Deletion,De novo constitutive,Global developmental delay; Stereotypy,Deletion-1
+338843,chr15,23286226,29021034,46XY,5.73 Mb,5.15 Mb,111,0.91,Heterozygous Deletion,Unknown,Global developmental delay,Deletion-1
+288347,chr15,22652047,30366138,46XY,7.71 Mb,5.69 Mb,119,0.9,Heterozygous Deletion,Unknown,Abnormality of the scrotum; Hand clenching; Low-set ears; Retrognathia,Deletion-0.899
+285124,chr15,23573296,28903925,46XY,5.33 Mb,4.86 Mb,106,0.9,Heterozygous Deletion,De novo constitutive,Colitis; Hypopigmentation of the skin; Iris hypopigmentation; Ocular albinism; Scoliosis; Seizures,Deletion-0.872283
+286020,chr15,21235896,26199196,46XY,4.96 Mb,3.45 Mb,110,0.86,Heterozygous Deletion,De novo constitutive,Broad face; Hypermetropia; Microcephaly; Motor delay; Seizures; Strabismus; Thickened ears,Deletion-1
+283607,chr15,23699760,30322138,46XY,6.62 Mb,4.74 Mb,103,0.85,Heterozygous Deletion,De novo constitutive,Absent speech; Global developmental delay; Seizures,Deletion-1
+293831,chr15,21219452,26208646,46XY,4.99 Mb,3.46 Mb,110,0.85,Heterozygous Deletion,Unknown,,Deletion-1
+331147,chr15,21199944,28795723,46XX,7.60 Mb,5.69 Mb,119,0.85,Heterozygous Deletion,De novo constitutive,,Deletion-0.8128
+275614,chr15,20686218,28691430,46XY,8.01 Mb,5.69 Mb,119,0.81,Heterozygous Deletion,Unknown,,Deletion-0.846
+296359,chr15,20686218,28691430,46XY,8.01 Mb,5.69 Mb,119,0.81,Heterozygous Deletion,Unknown,,Deletion-0.838
+293572,chr15,20686218,28940068,46XX,8.25 Mb,5.69 Mb,119,0.8,Heterozygous Deletion,De novo constitutive,,Deletion-0.890
+385181,chr15,20686219,29385680,46XY,8.70 Mb,5.69 Mb,119,0.78,Heterozygous Deletion,Unknown,Constipation; Moderate global developmental delay; Sleep apnea,Deletion
+395075,chr15,20000001,28026405,46XX,8.03 Mb,5.28 Mb,117,0.78,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Ataxia; EEG abnormality; Flat occiput; Mandibular prognathia; Round face; Scoliosis; Single transverse palmar crease,Deletion-0.5
+395914,chr15,20000001,28026405,46XX,8.03 Mb,5.28 Mb,117,0.78,Heterozygous Deletion,Unknown,Intellectual disability; Abnormality of skin pigmentation; Ataxia; Brachydactyly; Cutaneous finger syndactyly; Delayed speech and language development; Flat occiput; Gait disturbance; Mandibular prognathia; Microcephaly; Proportionate short stature; Protruding tongue; Spasticity; Wide mouth,Deletion-0.5
+396490,chr15,20000001,28026405,46XY,8.03 Mb,5.28 Mb,117,0.78,Heterozygous Deletion,De novo constitutive,Feeding difficulties in infancy; Intellectual disability; EEG abnormality; Everted lower lip vermilion; Gait disturbance; Open mouth,Deletion-0.5
+392982,chr15,20039988,25648907,46XX,5.61 Mb,2.90 Mb,107,0.74,Heterozygous Deletion,De novo constitutive,Intellectual disability; Muscular hypotonia; Ataxia; Brachycephaly; EEG abnormality; Emotional lability; Gait disturbance; Mandibular prognathia; Microcephaly; Protruding tongue; Spasticity,Deletion-0.5
+393039,chr15,20039988,25648907,46XY,5.61 Mb,2.90 Mb,107,0.74,Heterozygous Deletion,De novo constitutive,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Abnormal iris pigmentation; Anteverted nares; Aortic valve stenosis; Broad forehead; Cerebral atrophy; Decreased fetal movement; Depressed nasal bridge; Emotional lability; Epicanthus; Everted lower lip vermilion; Full cheeks; Hallux valgus; Long philtrum; Proportionate short stature; Small nail; Spasticity; Thick upper lip vermilion; Wide mouth,Deletion-0.5
+393040,chr15,20039988,25648907,46XX,5.61 Mb,2.90 Mb,107,0.74,Heterozygous Deletion,De novo constitutive,Intellectual disability; Broad neck; Exaggerated cupid's bow; Obesity; Small for gestational age,Deletion-0.5
+402200,chr15,20039988,25648907,46XY,5.61 Mb,2.90 Mb,107,0.74,Heterozygous Deletion,"Paternally inherited, constitutive in father",Feeding difficulties in infancy; Intellectual disability; Abnormality of the hip joint; Accessory oral frenulum; Aplasia/Hypoplasia of the cerebral white matter; Autistic behavior; Delayed speech and language development; Hydrocephalus; Hypertelorism; Hypospadias; Plagiocephaly; Prominent occiput; Proximal placement of thumb; Recurrent infections; Supernumerary ribs; Tracheoesophageal fistula,Deletion-0.5
+281919,chr15,20550014,31212748,46XX,10.66 Mb,5.69 Mb,119,0.72,Heterozygous Deletion,De novo constitutive,,Deletion-1
+330938,chr15,22770421,36101244,46XY,13.33 Mb,5.67 Mb,119,0.72,Heterozygous Deletion,Unknown,Abnormal facial shape; Global developmental delay,Deletion-1
+253204,chr15,22784523,38259147,46XX,15.47 Mb,5.65 Mb,119,0.7,Heterozygous Deletion,De novo constitutive,,Deletion-1
+331181,chr15,22753658,25360136,46XX,2.61 Mb,2.61 Mb,60,0.67,Heterozygous Deletion,Unknown,,Deletion-0.7809
+393895,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,Unknown,Intellectual disability; Muscular hypotonia; Abnormal iris pigmentation; Aggressive behavior; Ataxia; EEG abnormality; Hyperlordosis; Hypertelorism; Hypopigmentation of hair; Inguinal hernia; Microcephaly; Pointed chin; Premature birth; Proportionate short stature; Protruding tongue; Round face; Scoliosis; Short foot; Small hand; Spasticity; Strabismus; Wide mouth,Deletion-0.5
+393925,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,Unknown,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Anteverted nares; Brachycephaly; Bulbous nose; Downslanted palpebral fissures; EEG abnormality; High palate; Long philtrum; Microcephaly; Midface retrusion; Posteriorly rotated ears; Premature birth; Telecanthus; Wide nasal bridge,Deletion-0.5
+393947,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,Unknown,Intellectual disability; Ataxia; Bulbous nose; Coarse facial features; EEG abnormality; High palate; Increased fetal movement; Microcephaly; Preauricular skin tag; Recurrent infections; Strabismus; Widely spaced teeth,Deletion-0.5
+394085,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,De novo constitutive,Feeding difficulties in infancy; Intellectual disability; Abnormality of brain morphology; Abnormality of the pinna; Abnormality of the small intestine; Broad toe; Camptodactyly of finger; Hand polydactyly; Inguinal hernia; Premature birth; Proximal placement of thumb; Pulmonary hypoplasia; Recurrent infections; Short palpebral fissure; Small for gestational age; Supernumerary ribs,Deletion-0.5
+394360,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,De novo constitutive,Abnormality of the pinna; Absent testis; Decreased fetal movement; Micrognathia; Micropenis; Premature birth; Scrotal hypoplasia,Deletion-0.5
+394912,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Abnormal iris pigmentation; Brachycephaly; EEG abnormality; Flat occiput; High anterior hairline; Hypotelorism; Mandibular prognathia; Microcephaly; Protruding tongue; Strabismus; Wide mouth,Deletion-0.5
+394942,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,De novo constitutive,Intellectual disability; Muscular hypotonia; Truncal obesity; Almond-shaped palpebral fissure; Cryptorchidism; Downturned corners of mouth; Hip dislocation; Kyphosis; Micropenis; Narrow forehead; Postterm pregnancy; Proportionate short stature; Scoliosis; Scrotal hypoplasia; Strabismus; Talipes equinovarus,Deletion-0.5
+395073,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Ataxia; EEG abnormality; Facial asymmetry; Gait disturbance; Preeclampsia; Prominent metopic ridge; Spasticity,Deletion-0.5
+395077,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,Unknown,Intellectual disability; Muscular hypotonia; Aggressive behavior; Emotional lability; Obesity; Proportionate short stature; Scoliosis; Strabismus,Deletion-0.5
+395078,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Muscular hypotonia; Ataxia; Brachycephaly; Coarse facial features; EEG abnormality; Microcephaly; Midface retrusion; Proportionate short stature; Protruding tongue; Single transverse palmar crease; Strabismus; Wide mouth,Deletion-0.5
+395084,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Abnormal iris pigmentation; Ataxia; EEG abnormality; Emotional lability; Epicanthus; Gait disturbance; Hypopigmentation of hair; Mandibular prognathia; Microcephaly; Periorbital fullness; Spasticity; Thick eyebrow; Tremor; Upslanted palpebral fissure,Deletion-0.5
+395106,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Decreased fetal movement; EEG abnormality; Mandibular prognathia; Spinal muscular atrophy,Deletion-0.5
+395108,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Brachydactyly; Flat occiput; Gait disturbance; Hiatus hernia; Hypertonia; Low anterior hairline; Mandibular prognathia; Prominent nose; Proportionate short stature; Protruding tongue; Short neck; Short philtrum; Spasticity; Thick lower lip vermilion; Thin upper lip vermilion; Tremor; Wide mouth; Widely spaced teeth,Deletion-0.5
+395120,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Abnormality of prenatal development or birth; Ataxia; EEG abnormality; Hypertonia; Low anterior hairline; Microcephaly; Oligohydramnios; Proportionate short stature; Scoliosis; Spasticity; Talipes equinovalgus,Deletion-0.5
+395123,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Abnormal iris pigmentation; Brachycephaly; EEG abnormality; Hypopigmentation of hair; Mandibular prognathia; Wide mouth,Deletion-0.5
+395130,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Ataxia; Brachycephaly; EEG abnormality; Flat occiput; Hypertelorism; Incoordination; Microcephaly; Midface retrusion; Proportionate short stature; Wide mouth; Widely spaced teeth,Deletion-0.5
+395137,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,De novo constitutive,Intellectual disability; Muscular hypotonia; Cryptorchidism; Diabetes mellitus; Micropenis; Obesity; Proportionate short stature; Scrotal hypoplasia; Single transverse palmar crease,Deletion-0.5
+395139,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Ataxia; EEG abnormality; Flat occiput; Hyperlordosis; Microcephaly; Midface retrusion; Obesity; Premature birth; Proportionate short stature; Short foot; Short philtrum; Short toe; Small for gestational age; Small hand; Tapered finger; Thick lower lip vermilion; Thick upper lip vermilion; Wide mouth,Deletion-0.5
+395141,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Muscular hypotonia; Ataxia; Brachycephaly; EEG abnormality; Gait disturbance; Hip contracture; Hyperextensibility of the knee; Hyperlordosis; Hypertelorism; Short philtrum; Strabismus; Thin upper lip vermilion,Deletion-0.5
+395162,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,De novo constitutive,Intellectual disability; Muscular hypotonia; Aggressive behavior; Breech presentation; Cryptorchidism; Emotional lability; Micropenis; Narrow forehead; Proportionate short stature; Scoliosis; Scrotal hypoplasia; Sensorineural hearing impairment; Small for gestational age; Small hand; Striae distensae; Tapered finger,Deletion-0.5
+395171,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Muscular hypotonia; Abnormality of the septum pellucidum; Broad face; EEG abnormality; Hydrocephalus; Microcephaly; Posteriorly rotated ears; Spasticity; Strabismus,Deletion-0.5
+395295,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,Unknown,Intellectual disability; Muscular hypotonia; Almond-shaped palpebral fissure; Atopic dermatitis; Breech presentation; Narrow forehead; Obesity; Premature birth; Proportionate short stature; Short foot; Small hand,Deletion-0.5
+395311,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Muscular hypotonia; Ataxia; Autistic behavior; EEG abnormality; Protruding tongue; Strabismus,Deletion-0.5
+396111,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Abnormality of central sensory function; Cerebral atrophy; EEG abnormality; Hypertonia; Incoordination; Macrocephaly at birth; Nystagmus; Optic atrophy; Spasticity; Tremor,Deletion-0.5
+396454,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Abnormal shape of the occiput; EEG abnormality; Proportionate short stature,Deletion-0.5
+396455,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,Unknown,Intellectual disability; Abnormality of the eye; Aggressive behavior; Conspicuously happy disposition; EEG abnormality; Microcephaly,Deletion-0.5
+396456,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Paternally inherited, constitutive in father",Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Delayed skeletal maturation; Hypogonadotrophic hypogonadism; Obesity; Premature birth; Primary amenorrhea; Proportionate short stature; Short foot; Small hand,Deletion-0.5
+396457,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Abnormal shape of the occiput; Aggressive behavior; EEG abnormality; Proportionate short stature,Deletion-0.5
+396470,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Abnormal shape of the occiput; Aggressive behavior; EEG abnormality; Hypopigmentation of hair; Microcephaly; Proportionate short stature,Deletion-0.5
+396475,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,De novo mosaic,Feeding difficulties in infancy; Muscular hypotonia; Aggressive behavior; Almond-shaped palpebral fissure; Downturned corners of mouth; Hypopigmentation of hair; Micropenis; Narrow forehead; Obesity; Scrotal hypoplasia; Short foot; Small hand,Deletion-0.5
+396478,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Abnormal shape of the occiput; Conspicuously happy disposition; EEG abnormality; Microcephaly; Proportionate short stature,Deletion-0.5
+396484,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Abnormal shape of the occiput; Conspicuously happy disposition; EEG abnormality; Hypopigmentation of hair; Microcephaly; Proportionate short stature,Deletion-0.5
+396492,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Feeding difficulties in infancy; Intellectual disability; Abnormality of the thumb; Bulbous nose; Conspicuously happy disposition; Delayed speech and language development; Deviated nasal septum; EEG abnormality; Everted lower lip vermilion; Flat occiput; Flexion contracture; Hypertension; Hypertonia; Mandibular prognathia; Microcephaly; Photophobia; Plagiocephaly; Prominent nasal bridge; Proptosis; Short philtrum; Spotty hyperpigmentation; Thin skin; Underdeveloped nasal alae; Wide mouth,Deletion-0.5
+396501,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Abnormal shape of the occiput; Abnormality of the eye; Aggressive behavior; EEG abnormality; Hypopigmentation of hair; Kyphosis; Microcephaly; Proportionate short stature,Deletion-0.5
+396504,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Abnormal iris pigmentation; Ataxia; Breech presentation; Caesarian section; Delayed speech and language development; EEG abnormality; Everted lower lip vermilion; Gait disturbance; Hypertonia; Hypopigmentation of hair; Mandibular prognathia; Microcephaly; Protruding tongue; Spasticity; Wide mouth,Deletion-0.5
+396508,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Abnormal shape of the occiput; Conspicuously happy disposition; EEG abnormality; Hypopigmentation of hair; Kyphosis; Microcephaly; Proportionate short stature,Deletion-0.5
+396514,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Abnormal shape of the occiput; EEG abnormality; Hypopigmentation of hair; Kyphosis; Microcephaly; Proportionate short stature,Deletion-0.5
+396516,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Muscular hypotonia; Abnormal iris pigmentation; Ataxia; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance; Hyperlordosis; Hypopigmentation of hair; Mandibular prognathia; Proportionate short stature; Protruding tongue; Scoliosis,Deletion-0.5
+396517,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; EEG abnormality; Hypopigmentation of hair; Kyphosis; Microcephaly; Proportionate short stature,Deletion-0.5
+396530,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Feeding difficulties in infancy; Intellectual disability; Ataxia; Broad nasal tip; Conspicuously happy disposition; Downslanted palpebral fissures; EEG abnormality; Epicanthus; Everted lower lip vermilion; Gait disturbance; Hypertension; Joint laxity; Kyphosis; Narrow palate; Open mouth; Pectus excavatum; Pes planus; Protruding tongue; Single transverse palmar crease; Wide nasal base,Deletion-0.5
+396532,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,Unknown,Intellectual disability; Muscular hypotonia; Abnormal retinal morphology; Abnormality of the kidney; Abnormality of the retinal vasculature; Cryptorchidism; Diabetes mellitus; Micropenis; Obesity; Proportionate short stature; Proteinuria; Short foot; Small hand; Xanthomatosis,Deletion-0.5
+396535,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,De novo mosaic,Intellectual disability; Aggressive behavior; Generalized hirsutism; Narrow mouth; Obesity; Short foot; Small hand,Deletion-0.5
+396538,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,De novo mosaic,Muscular hypotonia; Almond-shaped palpebral fissure; Downturned corners of mouth; Hypopigmentation of hair; Narrow forehead; Obesity; Premature birth; Proportionate short stature; Short foot; Small hand; Thin upper lip vermilion; Ventricular septal defect,Deletion-0.5
+398440,chr15,20000001,33612708,46XX,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,De novo mosaic,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Anteverted nares; Arthritis; Cataract; Diabetes mellitus; Downturned corners of mouth; Glaucoma; Hypertension; Hypopigmentation of hair; Hypothyroidism; Narrow forehead; Obesity; Short foot; Short nose; Small hand; Strabismus,Deletion-0.5
+399160,chr15,20000001,33612708,46XY,13.61 Mb,5.69 Mb,119,0.64,Heterozygous Deletion,De novo constitutive,Intellectual disability; Muscular hypotonia; Brushfield spots; Delayed speech and language development; EEG abnormality; Mandibular prognathia; Microcephaly; Proportionate short stature; Widely spaced teeth,Deletion-0.5
+288865,chr15,20172533,35168233,unknown,15.00 Mb,5.69 Mb,119,0.62,Heterozygous Deletion,De novo constitutive,Abnormal facial shape; Generalized hypotonia; Intrauterine growth retardation,Deletion-1.13835
+283651,chr15,20102541,35758169,46XY,15.66 Mb,5.69 Mb,119,0.61,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Generalized hypotonia; Seizures; Severe global developmental delay; Short stature,Deletion-1
+362547,chr15,20102541,35758169,46XY,15.66 Mb,5.69 Mb,119,0.61,Heterozygous Deletion,De novo constitutive,Periventricular gray matter heterotopia,Deletion-1
+395074,chr15,20000001,25448907,46XX,5.45 Mb,2.70 Mb,77,0.59,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Brachycephaly; EEG abnormality; Mandibular prognathia; Microcephaly; Spasticity; Wide mouth,Deletion-0.5
+395085,chr15,20000001,25448907,46XY,5.45 Mb,2.70 Mb,77,0.59,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; EEG abnormality; Mandibular prognathia; Spasticity,Deletion-0.5
+395115,chr15,20000001,25448907,46XY,5.45 Mb,2.70 Mb,77,0.59,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Brachycephaly; EEG abnormality; Mandibular prognathia; Microcephaly; Protruding tongue; Spasticity; Wide mouth,Deletion-0.5
+395157,chr15,20000001,25448907,46XY,5.45 Mb,2.70 Mb,77,0.59,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Brachycephaly; EEG abnormality; Mandibular prognathia; Microcephaly; Spasticity; Wide mouth,Deletion-0.5
+399094,chr15,20000001,25448907,46XY,5.45 Mb,2.70 Mb,77,0.59,Heterozygous Deletion,Imbalance arising from a balanced parental rearrangement,Intellectual disability; Muscular hypotonia; Abnormality of the skeletal system; Aggressive behavior; Ataxia; Delayed speech and language development; Downslanted palpebral fissures; EEG abnormality; Gait disturbance; Obesity,Deletion-0.5
+399101,chr15,20000001,25448907,46XX,5.45 Mb,2.70 Mb,77,0.59,Heterozygous Deletion,Unknown,Intellectual disability; Muscular hypotonia; Choanal atresia; Generalized hirsutism; Gingival overgrowth; High anterior hairline; High palate; Hip dislocation; Hypotelorism; Low posterior hairline; Malar flattening; Microcephaly; Misalignment of teeth; Missing ribs; Narrow forehead; Prominent nasal bridge; Proportionate short stature; Proximal placement of thumb; Scoliosis; Small hand; Strabismus; Triangular face,Deletion-0.5
+399167,chr15,20000001,25448907,46XX,5.45 Mb,2.70 Mb,77,0.59,Heterozygous Deletion,Imbalance arising from a balanced parental rearrangement,Abnormality of the vertebral column; Downturned corners of mouth; Epicanthus; Flat occiput; Hypertelorism; Hypertonia; Long philtrum; Microcephaly; Micrognathia; Narrow forehead; Overlapping toe; Prominent metopic ridge; Prominent nose; Proportionate short stature; Proximal placement of thumb; Short 5th finger; Sloping forehead; Synophrys; Umbilical hernia; Wide mouth,Deletion-0.5
+286087,chr15,23641501,25410870,46XY,1.77 Mb,1.77 Mb,45,0.55,Heterozygous Deletion,De novo constitutive,Abnormal eating behavior; Abnormality of the skull; Convex nasal ridge; Hypertelorism; Infantile axial hypotonia; Micrognathia,Deletion-1
+286087,chr15,25506566,28530359,46XY,1.77 Mb,1.77 Mb,45,0.55,Heterozygous Deletion,De novo constitutive,Abnormal eating behavior; Abnormality of the skull; Convex nasal ridge; Hypertelorism; Infantile axial hypotonia; Micrognathia,Deletion-1
+286087,chr15,23641501,25410870,46XY,1.77 Mb,1.77 Mb,45,0.55,Heterozygous Deletion,De novo constitutive,Abnormal eating behavior; Abnormality of the skull; Convex nasal ridge; Hypertelorism; Infantile axial hypotonia; Micrognathia,Deletion-1
+286087,chr15,25506566,28530359,46XY,1.77 Mb,1.77 Mb,45,0.55,Heterozygous Deletion,De novo constitutive,Abnormal eating behavior; Abnormality of the skull; Convex nasal ridge; Hypertelorism; Infantile axial hypotonia; Micrognathia,Deletion-1
+286087,chr15,23641501,25410870,46XY,3.02 Mb,2.93 Mb,18,0.26,Heterozygous Deletion,De novo constitutive,Abnormal eating behavior; Abnormality of the skull; Convex nasal ridge; Hypertelorism; Infantile axial hypotonia; Micrognathia,Deletion-1
+286087,chr15,25506566,28530359,46XY,3.02 Mb,2.93 Mb,18,0.26,Heterozygous Deletion,De novo constitutive,Abnormal eating behavior; Abnormality of the skull; Convex nasal ridge; Hypertelorism; Infantile axial hypotonia; Micrognathia,Deletion-1
+286087,chr15,23641501,25410870,46XY,3.02 Mb,2.93 Mb,18,0.26,Heterozygous Deletion,De novo constitutive,Abnormal eating behavior; Abnormality of the skull; Convex nasal ridge; Hypertelorism; Infantile axial hypotonia; Micrognathia,Deletion-1
+286087,chr15,25506566,28530359,46XY,3.02 Mb,2.93 Mb,18,0.26,Heterozygous Deletion,De novo constitutive,Abnormal eating behavior; Abnormality of the skull; Convex nasal ridge; Hypertelorism; Infantile axial hypotonia; Micrognathia,Deletion-1
+286776,chr15,25367678,25513572,46XY,145.90 kb,145.90 kb,44,0.54,Heterozygous Deletion,Unknown,Abnormal vertebral morphology; Bilateral choanal atresia; Horseshoe kidney; Supernumerary ribs,Deletion-1
+394995,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Ataxia; Brachycephaly; EEG abnormality; Hyperlordosis; Hyperplasia of midface; Proportionate short stature; Protruding tongue; Scoliosis,Deletion-0.5
+395326,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Imbalance arising from a balanced parental rearrangement,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Ataxia; Brachycephaly; Hypopigmentation of hair,Deletion-0.5
+396128,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Imbalance arising from a balanced parental rearrangement,Feeding difficulties in infancy; Muscular hypotonia; Abnormal delivery; Cryptorchidism; Flexion contracture; Hypertelorism; Micrognathia; Narrow forehead; Respiratory distress; Scrotal hypoplasia; Short umbilical cord; Single transverse palmar crease; Small face,Deletion-0.5
+396144,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Feeding difficulties in infancy; Muscular hypotonia; Anteverted nares; Downturned corners of mouth; Hypotelorism; Micrognathia; Narrow forehead; Obesity; Short foot; Short nose,Deletion-0.5
+396217,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Imbalance arising from a balanced parental rearrangement,Feeding difficulties in infancy; Muscular hypotonia; Cryptorchidism; EEG abnormality; High palate; Hypopigmentation of the skin; Small for gestational age,Deletion-0.5
+397309,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Feeding difficulties in infancy; Muscular hypotonia,Deletion-0.5
+397311,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Hypogonadotrophic hypogonadism; Obesity,Deletion-0.5
+397314,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Intellectual disability; Muscular hypotonia; Obesity,Deletion-0.5
+397316,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Hypogonadotrophic hypogonadism; Obesity,Deletion-0.5
+397317,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance; Microcephaly,Deletion-0.5
+397318,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance,Deletion-0.5
+397320,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance; Microcephaly,Deletion-0.5
+397321,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Muscular hypotonia; Delayed speech and language development,Deletion-0.5
+397322,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Hypogonadotrophic hypogonadism; Obesity,Deletion-0.5
+397328,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance; Microcephaly,Deletion-0.5
+397331,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Obesity,Deletion-0.5
+397333,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Muscular hypotonia; Hypogonadotrophic hypogonadism; Obesity,Deletion-0.5
+397335,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance; Microcephaly,Deletion-0.5
+397341,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Hypogonadotrophic hypogonadism; Obesity,Deletion-0.5
+397345,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance,Deletion-0.5
+397350,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance; Microcephaly,Deletion-0.5
+397355,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Feeding difficulties in infancy; Muscular hypotonia; Hypogonadotrophic hypogonadism,Deletion-0.5
+397356,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance; Microcephaly,Deletion-0.5
+397357,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance; Microcephaly,Deletion-0.5
+397361,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Hypogonadotrophic hypogonadism; Obesity,Deletion-0.5
+397362,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance; Microcephaly,Deletion-0.5
+397364,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance; Microcephaly,Deletion-0.5
+397366,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance; Microcephaly,Deletion-0.5
+397369,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Hypogonadotrophic hypogonadism; Obesity,Deletion-0.5
+397375,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Obesity,Deletion-0.5
+397379,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance; Microcephaly,Deletion-0.5
+397382,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Feeding difficulties in infancy; Muscular hypotonia,Deletion-0.5
+397385,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance,Deletion-0.5
+397389,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Intellectual disability; Conspicuously happy disposition; Delayed speech and language development; EEG abnormality; Gait disturbance; Microcephaly,Deletion-0.5
+397391,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Hypogonadotrophic hypogonadism; Obesity,Deletion-0.5
+397392,chr15,25448908,28026405,46XX,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Hypogonadotrophic hypogonadism; Obesity,Deletion-0.5
+397395,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo constitutive,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Hypogonadotrophic hypogonadism; Obesity,Deletion-0.5
+397401,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Feeding difficulties in infancy; Intellectual disability; Muscular hypotonia; Hypogonadotrophic hypogonadism; Obesity,Deletion-0.5
+397404,chr15,25448908,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,Unknown,Feeding difficulties in infancy; Muscular hypotonia; Hypogonadotrophic hypogonadism,Deletion-0.5
+398401,chr15,25448909,28026405,46XY,2.58 Mb,2.58 Mb,41,0.51,Heterozygous Deletion,De novo mosaic,Muscular hypotonia; Almond-shaped palpebral fissure; Cryptorchidism; Hypopigmentation of hair; Macrocephaly; Narrow forehead; Obesity,Deletion-0.5
+284755,chr15,22880274,23217514,46XY,70.61 kb,70.61 kb,36,0.46,Heterozygous Deletion,Unknown,Abnormality of the palpebral fissures; Brachycephaly; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-1
+284755,chr15,25420800,25491412,46XY,70.61 kb,70.61 kb,36,0.46,Heterozygous Deletion,Unknown,Abnormality of the palpebral fissures; Brachycephaly; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-1
+284755,chr15,22880274,23217514,46XY,70.61 kb,70.61 kb,36,0.46,Heterozygous Deletion,Unknown,Abnormality of the palpebral fissures; Brachycephaly; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-1
+284755,chr15,25420800,25491412,46XY,70.61 kb,70.61 kb,36,0.46,Heterozygous Deletion,Unknown,Abnormality of the palpebral fissures; Brachycephaly; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-1
+284755,chr15,22880274,23217514,46XY,337.24 kb,337.24 kb,4,0.07,Heterozygous Deletion,"Paternally inherited, constitutive in father",Abnormality of the palpebral fissures; Brachycephaly; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-1
+284755,chr15,25420800,25491412,46XY,337.24 kb,337.24 kb,4,0.07,Heterozygous Deletion,"Paternally inherited, constitutive in father",Abnormality of the palpebral fissures; Brachycephaly; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-1
+284755,chr15,22880274,23217514,46XY,337.24 kb,337.24 kb,4,0.07,Heterozygous Deletion,"Paternally inherited, constitutive in father",Abnormality of the palpebral fissures; Brachycephaly; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-1
+284755,chr15,25420800,25491412,46XY,337.24 kb,337.24 kb,4,0.07,Heterozygous Deletion,"Paternally inherited, constitutive in father",Abnormality of the palpebral fissures; Brachycephaly; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-1
+288417,chr15,24826468,25342534,unknown,516.07 kb,516.07 kb,31,0.41,Heterozygous Deletion,Unknown,Intellectual disability; Aggressive behavior; Obesity; Psychosis,Deletion-0.874008
+285216,chr15,25257217,25375376,46XX,118.16 kb,118.16 kb,29,0.39,Heterozygous Deletion,"Paternally inherited, constitutive in father","Feeding difficulties in infancy; Caesarian section; Decreased fetal movement; Delayed speech and language development; Female hypogonadism; Generalized neonatal hypotonia; Intellectual disability, mild; Limited elbow extension; Obesity; Polyhydramnios; Polyphagia; Short foot; Short stature; Strabismus",Deletion-1
+261603,chr15,22299425,25091535,46XY,2.79 Mb,2.34 Mb,27,0.33,Heterozygous Deletion,Unknown,,Deletion-0.882
+284122,chr15,20172544,24979427,46XY,4.81 Mb,2.23 Mb,26,0.25,Heterozygous Deletion,De novo constitutive,Deeply set eye; Delayed speech and language development; Prominent forehead; Prominent nasal bridge; Thin vermilion border; Underdeveloped nasal alae,Deletion-1
+359433,chr15,22765628,23684714,46XY,919.09 kb,919.09 kb,16,0.24,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Growth delay; Hirsutism; Specific learning disability,Deletion-1
+249384,chr15,22588018,23694962,46XX,1.11 Mb,945.61 kb,16,0.23,Heterozygous Deletion,Inherited from normal parent,Abnormal vertebral morphology; Abnormality of the hip bone; Hydrocephalus; Microcephaly; Seizures; Spasticity,Deletion-0.5
+267399,chr15,22558697,23662568,46XY,1.10 Mb,913.22 kb,15,0.22,Heterozygous Deletion,Unknown,,Deletion-1
+296282,chr15,22729393,23656964,46XY,927.57 kb,907.61 kb,15,0.22,Heterozygous Deletion,Unknown,,Deletion-0.771
+379570,chr15,22541901,23648792,46XY,1.11 Mb,899.44 kb,15,0.22,Heterozygous Deletion,"Paternally inherited, constitutive in father",Attention deficit hyperactivity disorder; Autism,Deletion
+317080,chr15,22394059,23648792,46XY,1.25 Mb,899.44 kb,15,0.21,Heterozygous Deletion,"Maternally inherited, constitutive in mother","Attention deficit hyperactivity disorder; Autism; Intellectual disability, mild",Deletion-1
+290168,chr15,22299329,23572015,unknown,1.27 Mb,822.66 kb,13,0.18,Heterozygous Deletion,"Maternally inherited, constitutive in mother","Intellectual disability, mild",Deletion-0.714979
+257212,chr15,20615938,23694962,46XX,3.08 Mb,945.61 kb,16,0.17,Heterozygous Deletion,De novo constitutive,Muscular hypotonia; Abnormality of the hallux; Abnormality of the mouth; Abnormality of the outer ear; Avascular necrosis of the capital femoral epiphysis; Carious teeth; Downturned corners of mouth; Epicanthus; High palate; Hypertelorism; Joint laxity; Proportionate short stature; Short nose; Wide nasal bridge,Deletion-1
+251658,chr15,25547729,27514209,46XX,1.97 Mb,1.97 Mb,10,0.16,Heterozygous Deletion,Unknown,Intellectual disability; Delayed speech and language development; High palate; Macroglossia; Short palm,Deletion-0.6
+279701,chr15,20530605,23648643,46XY,3.12 Mb,899.29 kb,15,0.16,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Abnormal mitral valve morphology; Global developmental delay; Microcephaly,Deletion-1
+318433,chr15,20591187,23652850,46XY,3.06 Mb,903.50 kb,15,0.16,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Abnormal heart morphology,Deletion-1
+349424,chr15,20591187,23648792,46XY,3.06 Mb,899.44 kb,15,0.16,Heterozygous Deletion,"Paternally inherited, constitutive in father",Global developmental delay,Deletion-1
+402404,chr15,21903815,23464839,46XX,1.56 Mb,715.49 kb,12,0.15,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Finger clinodactyly; Preaxial hand polydactyly,Deletion-0.5
+264281,chr15,22698551,23300262,46XX,601.71 kb,550.91 kb,9,0.14,Heterozygous Deletion,Unknown,Intellectual disability; Cataract; Hearing impairment; Microcephaly,Deletion-0.859
+271353,chr15,22652084,23300263,46XX,648.18 kb,550.91 kb,9,0.14,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Abnormality of dental enamel; Abnormality of the skin; Autism; Emotional lability,Deletion-1
+271358,chr15,22652084,23300263,46XY,648.18 kb,550.91 kb,9,0.14,Heterozygous Deletion,Inherited from normal parent,Abnormality of dental enamel; Abnormality of the skin; Coarse hair; Delayed eruption of teeth; Oligodontia,Deletion-1
+290485,chr15,22698552,23300263,46XY,601.71 kb,550.91 kb,9,0.14,Heterozygous Deletion,Unknown,Cognitive impairment,Deletion-1
+292367,chr15,22765657,23300262,46XX,534.61 kb,534.61 kb,9,0.14,Heterozygous Deletion,Unknown,,Deletion-0.851
+294046,chr15,22652084,23300263,46XY,648.18 kb,550.91 kb,9,0.14,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Aggressive behavior; Hyperactivity,Deletion-1
+294838,chr15,22729394,23300263,46XX,570.87 kb,550.91 kb,9,0.14,Heterozygous Deletion,Unknown,"Behavioral abnormality; Global developmental delay; Intellectual disability, mild; Poor speech",Deletion-1
+304003,chr15,22770421,23282799,46XY,512.38 kb,512.38 kb,9,0.14,Heterozygous Deletion,Unknown,Obesity,Deletion-1
+314459,chr15,22770421,23291159,46XY,520.74 kb,520.74 kb,9,0.14,Heterozygous Deletion,"Paternally inherited, constitutive in father",,Deletion-1
+318921,chr15,22765628,23300287,46XY,534.66 kb,534.66 kb,9,0.14,Heterozygous Deletion,Unknown,Intellectual disability; Autism,Deletion-1
+330951,chr15,22770421,23282799,46XY,512.38 kb,512.38 kb,9,0.14,Heterozygous Deletion,De novo constitutive,Abnormality of brainstem morphology; Anteverted nares; Hirsutism; Hypsarrhythmia; Long eyelashes; Sensorineural hearing impairment; Talipes equinovarus,Deletion-1
+360967,chr15,22765628,23300287,46XY,534.66 kb,534.66 kb,9,0.14,Heterozygous Deletion,Unknown,Intellectual disability; Attention deficit hyperactivity disorder,Deletion-1
+366959,chr15,22770421,23290819,46XX,520.40 kb,520.40 kb,9,0.14,Heterozygous Deletion,Unknown,Anxiety; Attention deficit hyperactivity disorder; Intrauterine fetal demise of one twin after midgestation; Receptive language delay,Deletion
+366769,chr15,22770421,23282799,46XX,512.38 kb,512.38 kb,9,0.14,Heterozygous Deletion,Unknown,,Deletion
+402237,chr15,22698322,23300438,46XY,602.12 kb,551.09 kb,9,0.14,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Anomalous pulmonary venous return; Atrial septal defect,Deletion-0.5
+403718,chr15,22762571,23300285,46XY,537.72 kb,537.72 kb,9,0.14,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Autism,Deletion-0.8395
+258089,chr15,22749948,23275299,46XY,525.35 kb,525.35 kb,8,0.13,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+274441,chr15,22815607,23300263,46XY,484.66 kb,484.66 kb,8,0.13,Heterozygous Deletion,Unknown,Intellectual disability; Attention deficit hyperactivity disorder; Autism; Obesity; Polyphagia,Deletion-1
+286508,chr15,22770421,23281364,46XY,510.94 kb,510.94 kb,8,0.13,Heterozygous Deletion,Unknown,,Deletion-1
+318924,chr15,22860887,23300263,46XY,439.38 kb,439.38 kb,8,0.13,Heterozygous Deletion,Unknown,,Deletion-1
+307579,chr15,22156725,23300285,46XY,1.14 Mb,550.93 kb,9,0.12,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Abnormal eyebrow morphology; Ascending tubular aorta aneurysm; Bifid uvula; Broad nasal tip; Clinodactyly of the 5th finger; Delayed speech and language development; Hypertelorism; Macrodontia of permanent maxillary central incisor; Specific learning disability,Deletion-0.878226
+375948,chr15,22652330,23272733,46XY,620.40 kb,523.38 kb,8,0.12,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Abnormality of the hand; Camptodactyly of finger; Cerebral atrophy; Microcephaly; Severe global developmental delay; Spastic tetraparesis,Deletion
+375951,chr15,22652330,23272733,46XX,620.40 kb,523.38 kb,8,0.12,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Abnormal facial shape; Global developmental delay; Hypertrichosis; Relative macrocephaly,Deletion
+385048,chr15,22410067,23272733,46XY,862.67 kb,523.38 kb,8,0.12,Heterozygous Deletion,De novo constitutive,Autism; Behavioral abnormality; Language impairment,Deletion
+261235,chr15,22698551,23260484,46XX,561.93 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.79
+266019,chr15,22765657,23260484,46XY,494.83 kb,494.83 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.96
+267199,chr15,22698552,23260485,46XY,561.93 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-1
+267759,chr15,22765658,23260485,46XX,494.83 kb,494.83 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-1
+268145,chr15,22698551,23260484,other,561.93 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,Intellectual disability; Microcephaly,Deletion-0.882
+268465,chr15,22698551,23260484,46XY,561.93 kb,511.13 kb,7,0.11,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Abnormality of the dentition; Full cheeks; Hoarse voice; Proportionate short stature,Deletion-1
+270254,chr15,22729393,23260484,46XX,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,"Congenital microcephaly; Intellectual disability, severe",Deletion-0.895
+271920,chr15,22765657,23260484,46XX,494.83 kb,494.83 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.89
+272417,chr15,22729393,23260484,46XY,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.869
+272646,chr15,27040609,28153416,46XX,1.11 Mb,1.11 Mb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-1
+272902,chr15,22729393,23260484,46XY,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.89
+275093,chr15,22765657,23260484,46XX,494.83 kb,494.83 kb,7,0.11,Heterozygous Deletion,Unknown,Delayed speech and language development; Generalized-onset seizure; Hypertelorism,Deletion-0.87
+277375,chr15,22729394,23260485,46XX,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,Autism; Moderate global developmental delay; Sleep disturbance,Deletion-0.873
+279531,chr15,22729393,23260484,46XX,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.855
+279666,chr15,22729393,23260484,46XX,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.877
+280930,chr15,22729393,23260484,46XX,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.844
+281176,chr15,22729393,23260484,46XY,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.929
+281288,chr15,22729393,23260484,46XY,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.83
+282607,chr15,22729394,23260484,46XY,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.806
+283984,chr15,22729393,23260484,46XY,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.903
+285116,chr15,22729393,23260484,46XX,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.894
+287333,chr15,22765657,23260484,46XY,494.83 kb,494.83 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.871
+288330,chr15,22753658,23255493,46XY,501.84 kb,501.84 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.893
+291059,chr15,22765657,23260484,46XX,494.83 kb,494.83 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.925
+291933,chr15,22729393,23260484,46XY,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.894
+294794,chr15,22729394,23260485,46XY,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,"Maternally inherited, constitutive in mother",,Deletion-1
+295593,chr15,22698551,23260484,46XX,561.93 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.784
+303783,chr15,22765657,23260484,46XY,494.83 kb,494.83 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.860
+304184,chr15,22765657,23260484,46XY,494.83 kb,494.83 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.790
+304985,chr15,22765657,23260484,46XY,494.83 kb,494.83 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.883
+306401,chr15,22729393,23260484,46XY,531.09 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.751
+308576,chr15,22765657,23260484,46XY,494.83 kb,494.83 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-0.754
+327123,chr15,26450510,29579654,46XY,3.13 Mb,1.99 Mb,8,0.11,Heterozygous Deletion,Unknown,"Abnormality of the skull; Attention deficit hyperactivity disorder; Autism; Facial asymmetry; Intellectual disability, severe; Seizures",Deletion-0.6
+360569,chr15,22652084,23260485,46XX,608.40 kb,511.13 kb,7,0.11,Heterozygous Deletion,Unknown,,Deletion-1
+385172,chr15,22765658,23260485,46XY,494.83 kb,494.83 kb,7,0.11,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Hypospadias; Mild global developmental delay; Talipes,Deletion
+385172,chr15,99997085,102383444,46XY,494.83 kb,494.83 kb,7,0.11,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Hypospadias; Mild global developmental delay; Talipes,Deletion
+248452,chr15,22777874,23215710,46XX,437.84 kb,437.84 kb,6,0.1,Heterozygous Deletion,De novo constitutive,2-3 toe syndactyly; Broad nasal tip; Overlapping toe; Pulmonary insufficiency; Single ventricle,Deletion-1
+250448,chr15,22777874,23215710,46XX,437.84 kb,437.84 kb,6,0.1,Heterozygous Deletion,Unknown,Short stature,Deletion-1
+251082,chr15,22777874,23215710,46XY,437.84 kb,437.84 kb,6,0.1,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Autism; Joint laxity; Microcephaly; Prominent fingertip pads,Deletion-1
+251234,chr15,22777874,23215710,46XY,437.84 kb,437.84 kb,6,0.1,Heterozygous Deletion,De novo constitutive,Intellectual disability; Autism; Delayed speech and language development; Seizures,Deletion-1
+261529,chr15,22756650,23208901,46XY,452.25 kb,452.25 kb,6,0.1,Heterozygous Deletion,Inherited from parent with similar phenotype to child,Intellectual disability; Delayed speech and language development; Dysarthria,Deletion-1
+262670,chr15,22756650,23208901,46XY,452.25 kb,452.25 kb,6,0.1,Heterozygous Deletion,Unknown,,Deletion-1
+254348,chr15,22765637,23217513,46XX,451.88 kb,451.88 kb,6,0.1,Heterozygous Deletion,Unknown,Intellectual disability; Misalignment of teeth; Preauricular pit; Preauricular skin tag; Synophrys,Deletion-1
+270832,chr15,20686218,23300262,46XY,2.61 Mb,550.91 kb,9,0.1,Heterozygous Deletion,Unknown,,Deletion-0.889
+273721,chr15,22765637,23217513,46XY,451.88 kb,451.88 kb,6,0.1,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Apraxia; Dyscalculia; Hammertoe; Myopia; Protruding ear; Tall stature,Deletion-1
+273841,chr15,22729393,23217484,46XY,488.09 kb,468.13 kb,6,0.1,Heterozygous Deletion,Unknown,,Deletion-0.833
+274063,chr15,22765628,23208901,46XY,443.27 kb,443.27 kb,6,0.1,Heterozygous Deletion,Inherited from normal parent,Intellectual disability,Deletion-1
+274927,chr15,22729393,23217484,46XY,488.09 kb,468.13 kb,6,0.1,Heterozygous Deletion,Unknown,,Deletion-0.917
+276827,chr15,22765428,23217655,46XY,452.23 kb,452.23 kb,6,0.1,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+278536,chr15,20686218,23300262,46XY,2.61 Mb,550.91 kb,9,0.1,Heterozygous Deletion,Unknown,,Deletion-0.851
+281067,chr15,22765628,23208842,46XX,443.21 kb,443.21 kb,6,0.1,Heterozygous Deletion,"Paternally inherited, constitutive in father",Global developmental delay; Microcephaly; Spastic paraparesis,Deletion-1
+281796,chr15,20686218,23300262,46XY,2.61 Mb,550.91 kb,9,0.1,Heterozygous Deletion,Unknown,,Deletion-0.755
+282403,chr15,22765637,23217513,46XX,451.88 kb,451.88 kb,6,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Febrile seizures; Fifth finger distal phalanx clinodactyly,Deletion-1
+283258,chr15,20686218,23300262,46XY,2.61 Mb,550.91 kb,9,0.1,Heterozygous Deletion,Unknown,,Deletion-0.83
+287886,chr15,22753658,23189431,unknown,435.77 kb,435.77 kb,6,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Autism,Deletion-0.876317
+288254,chr15,22759875,23249693,46XX,489.82 kb,489.82 kb,6,0.1,Heterozygous Deletion,Unknown,Epicanthus; Global developmental delay,Deletion-0.8502
+288504,chr15,22753658,23192118,unknown,438.46 kb,438.46 kb,6,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Abnormal facial shape; Global developmental delay; Myotonia,Deletion-0.882035
+288605,chr15,22753658,23189431,unknown,435.77 kb,435.77 kb,6,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability,Deletion-0.883844
+288881,chr15,22753658,23191036,unknown,437.38 kb,437.38 kb,6,0.1,Heterozygous Deletion,Unknown,Abnormality of the 2nd finger,Deletion-0.885647
+289139,chr15,22753658,23191036,46XY,437.38 kb,437.38 kb,6,0.1,Heterozygous Deletion,"Paternally inherited, constitutive in father",Microcornea; Myopia; Telecanthus,Deletion-0.9201
+289214,chr15,22753658,23189431,46XY,435.77 kb,435.77 kb,6,0.1,Heterozygous Deletion,Unknown,Failure to thrive; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-0.9107
+289214,chr15,22759875,23221732,46XY,435.77 kb,435.77 kb,6,0.1,Heterozygous Deletion,Unknown,Failure to thrive; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-0.867667
+289214,chr15,22753658,23189431,46XY,435.77 kb,435.77 kb,6,0.1,Heterozygous Deletion,Unknown,Failure to thrive; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-0.9107
+289214,chr15,22759875,23221732,46XY,435.77 kb,435.77 kb,6,0.1,Heterozygous Deletion,Unknown,Failure to thrive; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-0.867667
+289214,chr15,22753658,23189431,46XY,461.86 kb,461.86 kb,6,0.1,Heterozygous Deletion,Unknown,Failure to thrive; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-0.9107
+289214,chr15,22759875,23221732,46XY,461.86 kb,461.86 kb,6,0.1,Heterozygous Deletion,Unknown,Failure to thrive; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-0.867667
+289214,chr15,22753658,23189431,46XY,461.86 kb,461.86 kb,6,0.1,Heterozygous Deletion,Unknown,Failure to thrive; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-0.9107
+289214,chr15,22759875,23221732,46XY,461.86 kb,461.86 kb,6,0.1,Heterozygous Deletion,Unknown,Failure to thrive; Generalized hypotonia; Global developmental delay; Recurrent respiratory infections,Deletion-0.867667
+289315,chr15,22753658,23187811,46XY,434.15 kb,434.15 kb,6,0.1,Heterozygous Deletion,Unknown,Failure to thrive,Deletion-0.7945
+289369,chr15,22753658,23249693,46XX,496.04 kb,496.04 kb,6,0.1,Heterozygous Deletion,Unknown,Intellectual disability,Deletion-0.8307
+289438,chr15,22753658,23191036,unknown,437.38 kb,437.38 kb,6,0.1,Heterozygous Deletion,"Paternally inherited, constitutive in father",Global developmental delay; Hydrocephalus,Deletion-0.865744
+289508,chr15,22759875,23187967,46XY,428.09 kb,428.09 kb,6,0.1,Heterozygous Deletion,Unknown,Intellectual disability,Deletion-0.9123
+290053,chr15,22753658,23221732,46XX,468.07 kb,468.07 kb,6,0.1,Heterozygous Deletion,Unknown,Seizures,Deletion-0.8475
+290383,chr15,22753658,23187967,46XY,434.31 kb,434.31 kb,6,0.1,Heterozygous Deletion,Unknown,Intellectual disability; Behavioral abnormality,Deletion-0.8791
+290413,chr15,22753658,23189431,unknown,435.77 kb,435.77 kb,6,0.1,Heterozygous Deletion,Unknown,Intellectual disability; Anterior hypopituitarism; Iris coloboma,Deletion-0.890388
+290447,chr15,22746289,23189431,unknown,443.14 kb,440.08 kb,6,0.1,Heterozygous Deletion,Unknown,,Deletion-0.814736
+292110,chr15,22815606,23260484,46XY,444.88 kb,444.88 kb,6,0.1,Heterozygous Deletion,Unknown,,Deletion-0.831
+292178,chr15,22765428,23217655,46XX,452.23 kb,452.23 kb,6,0.1,Heterozygous Deletion,Unknown,Cognitive impairment,Deletion-1
+303989,chr15,22729393,23217484,46XY,488.09 kb,468.13 kb,6,0.1,Heterozygous Deletion,Unknown,,Deletion-0.842
+308037,chr15,22765628,23191062,46XX,425.44 kb,425.44 kb,6,0.1,Heterozygous Deletion,Unknown,,Deletion-1
+270991,chr15,22765637,23217513,46XY,451.88 kb,451.88 kb,6,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Autistic behavior; Cognitive impairment,Deletion-1
+317692,chr15,20750154,23300263,46XX,2.55 Mb,550.91 kb,9,0.1,Heterozygous Deletion,Unknown,Depressed nasal bridge; Epicanthus; Joint hypermobility; Lactose intolerance; Midface retrusion; Relative macrocephaly; Short neck; Short stature; Total anomalous pulmonary venous return,Deletion-0.74
+317781,chr15,22765628,23217514,46XX,451.89 kb,451.89 kb,6,0.1,Heterozygous Deletion,"Paternally inherited, constitutive in father",Bicuspid aortic valve; Coarctation of aorta; Delayed speech and language development; Otitis media,Deletion-1
+318824,chr15,22765628,23217514,46XY,451.89 kb,451.89 kb,6,0.1,Heterozygous Deletion,"Paternally inherited, constitutive in father",Generalized-onset seizure,Deletion-1
+264227,chr15,22765637,23217513,46XY,451.88 kb,451.88 kb,6,0.1,Heterozygous Deletion,"Paternally inherited, constitutive in father",,Deletion-1
+325648,chr15,22765628,23217514,46XX,451.89 kb,451.89 kb,6,0.1,Heterozygous Deletion,Unknown,Tricuspid atresia,Deletion-1
+327067,chr15,22765628,23217514,46XX,451.89 kb,451.89 kb,6,0.1,Heterozygous Deletion,Unknown,Supracardiac total anomalous pulmonary venous connection,Deletion-1
+327318,chr15,22765637,23217513,46XX,451.88 kb,451.88 kb,6,0.1,Heterozygous Deletion,Unknown,Intellectual disability; Autistic behavior; Specific learning disability,Deletion-1
+331087,chr15,22753658,23189431,46XX,435.77 kb,435.77 kb,6,0.1,Heterozygous Deletion,Unknown,Intellectual disability; Abnormality of the uvula; Tremor,Deletion-0.848
+331461,chr15,22763424,23187811,46XX,424.39 kb,424.39 kb,6,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability,Deletion-0.9602
+331541,chr15,22757282,23221732,46XX,464.45 kb,464.45 kb,6,0.1,Heterozygous Deletion,Unknown,Autism; Personality disorder,Deletion-0.8662
+331702,chr15,22753658,23191540,46XY,437.88 kb,437.88 kb,6,0.1,Heterozygous Deletion,Unknown,Abnormality of the face; Growth abnormality; Obesity,Deletion-0.8523
+332616,chr15,20686203,23353697,46XY,2.67 Mb,604.34 kb,9,0.1,Heterozygous Deletion,Unknown,Neurodevelopmental delay,Deletion-0.6898
+339414,chr15,22304626,23260485,46XX,955.86 kb,511.13 kb,7,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother",,Deletion-1
+339416,chr15,20604598,23300263,46XY,2.70 Mb,550.91 kb,9,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother",,Deletion-1
+339465,chr15,22765637,23217513,46XY,451.88 kb,451.88 kb,6,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Global developmental delay; Pectus excavatum; Thoracic scoliosis,Deletion-1
+339626,chr15,22765628,23208901,46XX,443.27 kb,443.27 kb,6,0.1,Heterozygous Deletion,"Paternally inherited, constitutive in father",Delayed speech and language development; Global developmental delay; Short stature,Deletion-1
+339627,chr15,22765628,23208901,46XY,443.27 kb,443.27 kb,6,0.1,Heterozygous Deletion,Unknown,,Deletion-1
+341043,chr15,22754322,23222284,46XY,467.96 kb,467.96 kb,6,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother","Bicuspid aortic valve; Cerebral palsy; Intellectual disability, moderate",Deletion-1
+349670,chr15,22765637,23217513,46XY,451.88 kb,451.88 kb,6,0.1,Heterozygous Deletion,Unknown,,Deletion-0.8244
+350068,chr15,22754322,23222284,46XY,467.96 kb,467.96 kb,6,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Mild global developmental delay; Mild short stature; Relative macrocephaly,Deletion-1
+350219,chr15,22765628,23191062,46XY,425.44 kb,425.44 kb,6,0.1,Heterozygous Deletion,Unknown,,Deletion-1
+350367,chr15,22765637,23217513,46XX,451.88 kb,451.88 kb,6,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Mild global developmental delay,Deletion-1
+354282,chr15,22765628,23208901,46XX,443.27 kb,443.27 kb,6,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother",,Deletion-1
+361039,chr15,21904331,23272733,46XY,1.37 Mb,523.38 kb,8,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Abnormal facial shape; Abnormal shape of the frontal region; Delayed speech and language development; Dolichocephaly,Deletion
+362567,chr15,22784523,23222284,46XY,437.76 kb,437.76 kb,6,0.1,Heterozygous Deletion,"Paternally inherited, constitutive in father",Cryptorchidism; Global developmental delay; Growth delay,Deletion
+368791,chr15,22765628,23208901,46XY,443.27 kb,443.27 kb,6,0.1,Heterozygous Deletion,De novo constitutive,Delayed speech and language development; Global developmental delay,Deletion
+370434,chr15,22754322,23222284,46XY,467.96 kb,467.96 kb,6,0.1,Heterozygous Deletion,"Paternally inherited, constitutive in father",Attention deficit hyperactivity disorder; Autism; Obesity,Deletion
+375937,chr15,22754322,23200707,46XY,446.39 kb,446.39 kb,6,0.1,Heterozygous Deletion,Unknown,Intellectual disability,Deletion
+376310,chr15,22765628,23217514,46XY,451.89 kb,451.89 kb,6,0.1,Heterozygous Deletion,Unknown,,Deletion
+376885,chr15,22765628,23217514,46XX,451.89 kb,451.89 kb,6,0.1,Heterozygous Deletion,Unknown,,Deletion-0.742
+385047,chr15,22765628,23217514,46XY,451.89 kb,451.89 kb,6,0.1,Heterozygous Deletion,Unknown,Delayed social development,Deletion-0.742
+385322,chr15,22754322,23222284,46XY,467.96 kb,467.96 kb,6,0.1,Heterozygous Deletion,Unknown,Specific learning disability,Deletion
+389942,chr15,22765628,23217514,46XX,451.89 kb,451.89 kb,6,0.1,Heterozygous Deletion,Unknown,Myopathy; Ophthalmoplegia,Deletion-0.696
+390452,chr15,22765628,23217514,46XX,451.89 kb,451.89 kb,6,0.1,Heterozygous Deletion,Unknown,,Deletion-0.75
+394794,chr15,22754322,23222284,46XX,467.96 kb,467.96 kb,6,0.1,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability,Deletion
+402010,chr15,22754322,23222284,46XY,467.96 kb,467.96 kb,6,0.1,Heterozygous Deletion,Unknown,Speech apraxia,Deletion
+260815,chr15,22698322,23217655,46XY,519.33 kb,468.30 kb,6,0.09,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+263598,chr15,22698322,23217655,46XX,519.33 kb,468.30 kb,6,0.09,Heterozygous Deletion,Inherited from parent with similar phenotype to child,,Deletion-1
+272648,chr15,22698522,23217514,46XY,518.99 kb,468.16 kb,6,0.09,Heterozygous Deletion,Inherited from parent with similar phenotype to child,Atopic dermatitis; Delayed speech and language development; Short attention span,Deletion-1
+275622,chr15,22508324,23200707,46XY,692.38 kb,451.35 kb,6,0.09,Heterozygous Deletion,"Paternally inherited, constitutive in father",Autism; Delayed speech and language development,Deletion-1
+287839,chr15,22698520,23192118,unknown,493.60 kb,442.76 kb,6,0.09,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Short stature,Deletion-0.83166
+288793,chr15,22698520,23191540,unknown,493.02 kb,442.19 kb,6,0.09,Heterozygous Deletion,Unknown,Ventricular septal defect,Deletion-0.869668
+288983,chr15,22698520,23187811,unknown,489.29 kb,438.46 kb,6,0.09,Heterozygous Deletion,Unknown,,Deletion-0.905658
+288994,chr15,22698520,23191662,46XX,493.14 kb,442.31 kb,6,0.09,Heterozygous Deletion,Unknown,Intellectual disability,Deletion-0.9088
+290042,chr15,22652047,23187967,unknown,535.92 kb,438.61 kb,6,0.09,Heterozygous Deletion,"Paternally inherited, constitutive in father",Intellectual disability,Deletion-0.904481
+290285,chr15,22698579,23249693,unknown,551.12 kb,500.34 kb,6,0.09,Heterozygous Deletion,Unknown,Intellectual disability; Glaucoma; Obesity; Psychosis,Deletion-0.881875
+291413,chr15,22673386,23241437,46XY,568.05 kb,492.08 kb,6,0.09,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability,Deletion-1
+314641,chr15,22698322,23217655,46XY,519.33 kb,468.30 kb,6,0.09,Heterozygous Deletion,"Maternally inherited, constitutive in mother","Hypotelorism; Intellectual disability, moderate; Microcephaly",Deletion-1
+327757,chr15,22652047,23217513,46XX,565.47 kb,468.16 kb,6,0.09,Heterozygous Deletion,"Paternally inherited, constitutive in father",Behavioral abnormality; Delayed speech and language development; Global developmental delay; Sleep disturbance,Deletion-1
+331372,chr15,22299419,23191662,46XY,892.24 kb,442.31 kb,6,0.09,Heterozygous Deletion,Unknown,,Deletion-0.8054
+331651,chr15,22698520,23189431,46XY,490.91 kb,440.08 kb,6,0.09,Heterozygous Deletion,Unknown,Intellectual disability,Deletion-0.7328
+346814,chr15,22652047,23217513,46XX,565.47 kb,468.16 kb,6,0.09,Heterozygous Deletion,"Paternally inherited, constitutive in father",Amblyopia; Central hypotonia; Esotropia; Mild global developmental delay,Deletion-1
+362651,chr15,22318597,23217514,46XY,898.92 kb,468.16 kb,6,0.09,Heterozygous Deletion,Unknown,,Deletion-0.772
+375953,chr15,22652330,23226254,46XY,573.92 kb,476.90 kb,6,0.09,Heterozygous Deletion,"Paternally inherited, constitutive in father",,Deletion
+375954,chr15,22652330,23226254,46XX,573.92 kb,476.90 kb,6,0.09,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Abnormal facial shape; Anxiety; Hypertrichosis; Postnatal growth retardation; Relative macrocephaly,Deletion
+375958,chr15,22652330,23226254,46XX,573.92 kb,476.90 kb,6,0.09,Heterozygous Deletion,"Paternally inherited, constitutive in father",Coarctation of aorta; Short stature; Subaortic ventricular septal bulge,Deletion
+385538,chr15,22698522,23217514,46XY,518.99 kb,468.16 kb,6,0.09,Heterozygous Deletion,Unknown,Hydrops fetalis; Oligohydramnios; Pericardial effusion,Deletion-0.772
+402378,chr15,22668852,23217655,46XX,548.80 kb,468.30 kb,6,0.09,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Intellectual disability; Broad nasal tip; Delayed speech and language development; Everted lower lip vermilion; Hypermetropia; Low-set ears; Pes planus; Posteriorly rotated ears; Upslanted palpebral fissure,Deletion-0.5
+249452,chr15,23992896,24883879,unknown,890.98 kb,890.98 kb,5,0.08,Heterozygous Deletion,Unknown,Muscular hypotonia; Autism; Bifid nasal tip; Broad phalanges of the hand; Broad toe; Cutaneous finger syndactyly; Cutis marmorata; Deeply set eye; Frontal bossing; Low anterior hairline; Wide nasal bridge,Deletion-1
+249407,chr15,22777874,23134874,46XY,357.00 kb,357.00 kb,5,0.08,Heterozygous Deletion,Unknown,Abnormal heart morphology; Coarctation of aorta,Deletion-1
+250909,chr15,22765628,23047696,46XY,282.07 kb,282.07 kb,5,0.08,Heterozygous Deletion,Unknown,Intellectual disability; Abnormal erythrocyte morphology; Delayed speech and language development; Short stature,Deletion-1
+251835,chr15,22765628,23167758,46XX,402.13 kb,402.13 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Apraxia; Autism; Delayed speech and language development; Dental malocclusion; Epicanthus; High palate; Iris hypopigmentation; Neurological speech impairment; Self-mutilation; Stereotypy,Deletion-1
+254033,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from parent with similar phenotype to child,,Deletion-1
+254089,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+254090,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+254091,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+254092,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+254094,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+254095,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+254096,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+254097,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+254098,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+254099,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,De novo constitutive,,Deletion-1
+254100,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,De novo constitutive,,Deletion-1
+254101,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from parent with similar phenotype to child,,Deletion-1
+254102,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from parent with similar phenotype to child,,Deletion-1
+254105,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+252419,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+253180,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,De novo constitutive,,Deletion-1
+254106,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+254107,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from parent with similar phenotype to child,,Deletion-1
+254108,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+254109,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+254110,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+253177,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+255004,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+255942,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from parent with similar phenotype to child,,Deletion-1
+255943,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+255958,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+257130,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+257131,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",,Deletion-1
+257132,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+257133,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+257134,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,De novo constitutive,,Deletion-1
+257135,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from parent with similar phenotype to child,,Deletion-1
+257452,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+257738,chr15,22750488,23096205,46XY,345.72 kb,345.72 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+258410,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+258487,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+258488,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+258893,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+259632,chr15,22765428,23146273,46XY,380.85 kb,380.85 kb,5,0.08,Heterozygous Deletion,Inherited from parent with similar phenotype to child,Clinodactyly of the 5th finger; Delayed speech and language development; Joint laxity; Microcephaly,Deletion-0.929999
+260289,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from parent with similar phenotype to child,Global developmental delay; Nasal speech; Seizures,Deletion-1
+260290,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from parent with similar phenotype to child,,Deletion-1
+260291,chr15,22784523,23085096,46XY,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Inherited from parent with similar phenotype to child,,Deletion-1
+261567,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,Abnormal nipple morphology; Asymmetry of the thorax; Brachycephaly; Broad forehead; Dextrocardia; Dry skin; Global developmental delay; High palate; Macrotia; Neonatal hypotonia; Prominent fingertip pads; Wide mouth,Deletion-1
+262753,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Dextrocardia; Pectoral muscle hypoplasia/aplasia,Deletion-1
+263122,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",,Deletion-1
+263123,chr15,22784523,23179889,46XY,395.37 kb,395.37 kb,5,0.08,Heterozygous Deletion,De novo constitutive,,Deletion-1
+262074,chr15,22765658,23085067,46XX,319.41 kb,319.41 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Downslanted palpebral fissures; Frontal bossing; Low-set ears; Proportionate short stature; Slender build; Strabismus,Deletion-1
+265535,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Inherited from parent with similar phenotype to child,,Deletion-1
+265946,chr15,22784523,23047696,46XX,263.17 kb,263.17 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+267139,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",,Deletion-1
+267309,chr15,22765637,23096240,46XY,330.60 kb,330.60 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Downslanted palpebral fissures; Frontal bossing; High palate; Hypertelorism; Low-set ears; Macrocephaly; Pointed chin,Deletion-1
+267367,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,De novo constitutive,,Deletion-1
+267676,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+267691,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+268593,chr15,22729393,23146102,46XY,416.71 kb,396.75 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-0.908
+269336,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Inherited from parent with similar phenotype to child,,Deletion-1
+269979,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+270845,chr15,22765428,23085237,46XX,319.81 kb,319.81 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Seizures,Deletion-1
+270847,chr15,22765428,23082962,46XX,317.54 kb,317.54 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Seizures,Deletion-1
+271180,chr15,22729393,23086280,46XY,356.89 kb,336.93 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-0.808
+271206,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",,Deletion-1
+271341,chr15,20686220,23260485,46XY,2.57 Mb,511.13 kb,7,0.08,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Muscular hypotonia; Delayed speech and language development; Truncal ataxia,Deletion-1
+271561,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+271692,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Inherited from parent with similar phenotype to child,,Deletion-1
+272664,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Inherited from parent with unknown phenotype,Intellectual disability,Deletion-1
+272678,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+273097,chr15,20686218,23260484,46XY,2.57 Mb,511.13 kb,7,0.08,Heterozygous Deletion,Unknown,,Deletion-0.831
+273971,chr15,22773649,23087522,46XY,313.87 kb,313.87 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Delayed speech and language development,Deletion-1
+274330,chr15,22765658,23146103,46XY,380.45 kb,380.45 kb,5,0.08,Heterozygous Deletion,Inherited from parent with unknown phenotype,,Deletion-0.86
+275457,chr15,22784523,23076420,46XY,291.90 kb,291.90 kb,5,0.08,Heterozygous Deletion,Inherited from parent with unknown phenotype,Abnormality of higher mental function,Deletion-1
+276085,chr15,22784463,23180008,46XX,395.55 kb,395.55 kb,5,0.08,Heterozygous Deletion,Inherited from normal parent,Intrauterine growth retardation; Microcephaly; Postnatal growth retardation; Sparse scalp hair,Deletion-1
+276223,chr15,20550014,23260485,46XY,2.71 Mb,511.13 kb,7,0.08,Heterozygous Deletion,Inherited from normal parent,Abnormality of the eye; Abnormality of the face; Abnormality of the forehead; Global developmental delay; Pectus excavatum; Pes planus; Strabismus; Umbilical hernia,Deletion-1
+276460,chr15,20686218,23260484,46XY,2.57 Mb,511.13 kb,7,0.08,Heterozygous Deletion,Unknown,,Deletion-0.771
+277861,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father","Intellectual disability, moderate",Deletion-1
+278655,chr15,22765628,23179948,46XX,414.32 kb,414.32 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Abnormality of the face; Short stature,Deletion-1
+278993,chr15,22475877,23164315,46XX,688.44 kb,414.96 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Eczema; Epicanthus; High hypermetropia; Hypertelorism; Long philtrum; Low-set ears; Microcephaly,Deletion-1
+279080,chr15,22729393,23082791,46XY,353.40 kb,333.44 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-0.926
+279180,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,"Behavioral abnormality; Intellectual disability, moderate",Deletion-1
+279749,chr15,22765657,23146102,46XY,380.45 kb,380.45 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-0.836
+281739,chr15,22765658,23086281,46XX,320.62 kb,320.62 kb,5,0.08,Heterozygous Deletion,Unknown,Intellectual disability,Deletion-1
+282311,chr15,22784523,23076420,46XX,291.90 kb,291.90 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother","Absent speech; Ataxia; Intellectual disability, moderate",Deletion-1
+283031,chr15,22765628,23179948,46XY,414.32 kb,414.32 kb,5,0.08,Heterozygous Deletion,De novo constitutive,Abnormality of neuronal migration; Abnormality of the orbital region; Bilateral microphthalmos; Coloboma; Congenital cataract; Lissencephaly; Retinal dysplasia,Deletion-1
+283057,chr15,20686218,23260484,46XY,2.57 Mb,511.13 kb,7,0.08,Heterozygous Deletion,Unknown,,Deletion-0.787
+285397,chr15,22784523,23076420,46XX,291.90 kb,291.90 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Muscular hypotonia; Global developmental delay,Deletion-1
+285501,chr15,22765428,23086459,46XX,321.03 kb,321.03 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",,Deletion-1
+285904,chr15,25420600,25430735,46XY,10.14 kb,10.14 kb,5,0.08,Homozygous Deletion,"Paternally inherited, constitutive in father",3-5 finger syndactyly; Delayed speech and language development; Hypermetropia; Hypoplastic nipples; Long philtrum; Low-set ears; Lumbar kyphosis in infancy; Mild global developmental delay; Pectus excavatum; Short neck; Short stature; Strabismus; Unilateral narrow palpebral fissure; Upper limb metaphyseal widening,Deletion-2
+285954,chr15,25420800,25430579,46XX,9.78 kb,9.78 kb,5,0.08,Heterozygous Deletion,Unknown,Congenital hip dislocation; Generalized hypotonia; Global developmental delay; Motor delay; Talipes equinovalgus,Deletion-1
+286412,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Global developmental delay,Deletion-1
+287176,chr15,24406896,25108865,46XY,701.97 kb,701.97 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Aplasia/Hypoplasia of the corpus callosum; White matter neuronal heterotopia,Deletion-1
+287191,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",,Deletion-1
+287632,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,"Cleft palate; Intellectual disability, moderate",Deletion-1
+287745,chr15,22729394,23086281,46XY,356.89 kb,336.93 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father","Abnormal aggressive, impulsive or violent behavior; Abnormal number of hair whorls; Cafe-au-lait spot; Congenital ptosis; Cryptorchidism; Downslanted palpebral fissures; Global developmental delay; Hepatic calcification; Hypoplastic philtrum; Long eyelashes; Long philtrum; Low hanging columella; Poor suck; Postnatal microcephaly; Scrotal hypoplasia; Thin upper lip vermilion; Unilateral ptosis",Deletion-1
+287833,chr15,22753658,23146102,unknown,392.44 kb,392.44 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Intellectual disability,Deletion-0.915261
+287853,chr15,22753658,23146102,46XY,392.44 kb,392.44 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Global developmental delay,Deletion-0.967
+288040,chr15,22652047,23087552,unknown,435.51 kb,338.20 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-0.97474
+288105,chr15,22753658,23146102,46XY,392.44 kb,392.44 kb,5,0.08,Heterozygous Deletion,Unknown,Anteverted nares; Delayed fine motor development; Delayed gross motor development; Long philtrum; Macrocephaly; Short neck; Synophrys,Deletion-0.9574
+288122,chr15,22753658,23146102,46XY,392.44 kb,392.44 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Generalized hypotonia; Global developmental delay,Deletion-0.894
+288215,chr15,22698520,23146102,46XY,447.58 kb,396.75 kb,5,0.08,Heterozygous Deletion,Unknown,Expressive language delay; Failure to thrive; Tremor,Deletion-0.8957
+288625,chr15,22753658,23087552,unknown,333.89 kb,333.89 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Intellectual disability,Deletion-0.939713
+288988,chr15,22753658,23146102,46XX,392.44 kb,392.44 kb,5,0.08,Heterozygous Deletion,Unknown,Intellectual disability,Deletion-1.027
+288997,chr15,22652047,23146102,unknown,494.06 kb,396.75 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Microcephaly,Deletion-0.947196
+289123,chr15,22753658,23146102,unknown,392.44 kb,392.44 kb,5,0.08,Heterozygous Deletion,Unknown,Abnormal facial shape; Inappropriate behavior,Deletion-0.884641
+289429,chr15,22753658,23146102,unknown,392.44 kb,392.44 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Generalized-onset seizure; Global developmental delay,Deletion-0.945006
+289443,chr15,22753658,23087552,unknown,333.89 kb,333.89 kb,5,0.08,Heterozygous Deletion,Unknown,Intellectual disability; Microcephaly,Deletion-0.974787
+289534,chr15,22753658,23165925,unknown,412.27 kb,412.27 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-0.840668
+289509,chr15,22759875,23087552,unknown,327.68 kb,327.68 kb,5,0.08,Heterozygous Deletion,Unknown,Pachygyria; Type II lissencephaly,Deletion-0.909271
+289629,chr15,22753658,23084392,unknown,330.74 kb,330.74 kb,5,0.08,Heterozygous Deletion,Unknown,Intellectual disability; Psychosis,Deletion-0.90153
+289802,chr15,22753658,23146102,46XX,392.44 kb,392.44 kb,5,0.08,Heterozygous Deletion,Unknown,Specific learning disability,Deletion-0.9424
+289845,chr15,22753658,23146102,unknown,392.44 kb,392.44 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Autism; Multifactorial inheritance; Psychosis,Deletion-0.92245
+289894,chr15,22753658,23087552,46XY,333.89 kb,333.89 kb,5,0.08,Heterozygous Deletion,Unknown,"Intellectual disability; Deeply set eye; Intellectual disability, severe; Synophrys",Deletion-0.9784
+289913,chr15,22753658,23146102,unknown,392.44 kb,392.44 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Intellectual disability; Abnormal facial shape; Polymicrogyria,Deletion-0.889916
+290176,chr15,22753658,23146102,unknown,392.44 kb,392.44 kb,5,0.08,Heterozygous Deletion,Unknown,Intellectual disability; Distal shortening of limbs,Deletion-0.943812
+290194,chr15,22753658,23165925,46XY,412.27 kb,412.27 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Short stature,Deletion-0.9037
+290623,chr15,22765657,23146102,46XY,380.45 kb,380.45 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-0.834
+291635,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,"Intellectual disability, moderate",Deletion-1
+292185,chr15,22765428,23082962,46XX,317.54 kb,317.54 kb,5,0.08,Heterozygous Deletion,Unknown,Cognitive impairment,Deletion-1
+292623,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Short stature,Deletion-1
+292714,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Cognitive impairment; Delayed speech and language development,Deletion-1
+293080,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Cognitive impairment; Obesity,Deletion-1
+293942,chr15,22729393,23085066,46XY,355.67 kb,335.71 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-0.816
+297354,chr15,22765658,23085067,46XY,319.41 kb,319.41 kb,5,0.08,Heterozygous Deletion,Unknown,Intellectual disability; Radioulnar synostosis,Deletion-0.86
+299945,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Delayed speech and language development; Global developmental delay,Deletion-1
+300410,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Autistic behavior; Global developmental delay,Deletion-1
+300416,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Dysphasia,Deletion-1
+300525,chr15,22784523,23179948,unknown,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Absence seizures; Autistic behavior; Global developmental delay; Postaxial polysyndactyly of foot; Sagittal craniosynostosis,Deletion-1
+300693,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,De novo constitutive,Absent speech; Global developmental delay; Stereotypy,Deletion-1
+301043,chr15,22765628,23082821,46XY,317.19 kb,317.19 kb,5,0.08,Heterozygous Deletion,Unknown,Global developmental delay; Neurological speech impairment; Obesity; Patent ductus arteriosus,Deletion-1
+301698,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Growth delay; Microcephaly,Deletion-1
+302042,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Delayed speech and language development; Hypotelorism; Impaired social interactions; Lack of peer relationships; Specific learning disability; Thick upper lip vermilion,Deletion-0.75162
+303545,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Behavioral abnormality; Cognitive impairment; Delayed speech and language development,Deletion-1
+303900,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Behavioral abnormality; Cognitive impairment; Microcephaly; Skeletal muscle atrophy,Deletion-1
+304320,chr15,22652083,23080934,46XY,428.85 kb,331.58 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-0.687
+307971,chr15,22765657,23082791,46XY,317.13 kb,317.13 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-0.750
+308252,chr15,22765657,23146102,46XX,380.45 kb,380.45 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-0.834
+314209,chr15,22765628,23085096,46XX,319.47 kb,319.47 kb,5,0.08,Heterozygous Deletion,Unknown,Mild global developmental delay,Deletion-1
+314436,chr15,22765658,23146103,46XX,380.45 kb,380.45 kb,5,0.08,Heterozygous Deletion,Unknown,Butterfly vertebrae; Delayed speech and language development; Diastomatomyelia; Epicanthus; Interstitial pulmonary abnormality; Narrow mouth; Prominent forehead; Tethered cord; Vertebral segmentation defect,Deletion-0.65
+317478,chr15,22765637,23146102,46XY,380.47 kb,380.47 kb,5,0.08,Heterozygous Deletion,Unknown,Autism with high cognitive abilities,Deletion-0.807
+318628,chr15,22765628,23085096,46XY,319.47 kb,319.47 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Febrile seizures; Generalized tonic-clonic seizures,Deletion-1
+323310,chr15,22765628,23146132,46XY,380.50 kb,380.50 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Specific learning disability,Deletion-1
+323721,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Specific learning disability,Deletion-1
+325556,chr15,22765637,23146102,46XY,380.47 kb,380.47 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Delayed speech and language development; Neurodevelopmental delay,Deletion-1
+325816,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Autistic behavior,Deletion-1
+326591,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Behavioral abnormality; Delayed speech and language development,Deletion-1
+326616,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Delayed speech and language development,Deletion-1
+326621,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,De novo constitutive,Abnormality of the ear; Aganglionic megacolon,Deletion-1
+327128,chr15,22744206,23110491,46XX,366.29 kb,361.14 kb,5,0.08,Heterozygous Deletion,Unknown,"Abnormality of finger; Bipolar affective disorder; Intellectual disability, moderate; Recurrent urinary tract infections",Deletion-0.81100000000000005
+327200,chr15,22765628,23165915,46XX,400.29 kb,400.29 kb,5,0.08,Heterozygous Deletion,Unknown,"Abnormal facial shape; Intellectual disability, progressive",Deletion-1
+327764,chr15,22784523,23076420,unknown,291.90 kb,291.90 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",,Deletion-1
+331166,chr15,22753658,23084392,46XY,330.74 kb,330.74 kb,5,0.08,Heterozygous Deletion,Unknown,Excessive salivation; Global developmental delay,Deletion-0.9668
+331167,chr15,22698520,23146102,46XX,447.58 kb,396.75 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Abnormality of the face,Deletion-0.9673
+331207,chr15,22652047,23146102,46XY,494.06 kb,396.75 kb,5,0.08,Heterozygous Deletion,Unknown,Global developmental delay,Deletion-0.8746
+331236,chr15,22753658,23087552,46XY,333.89 kb,333.89 kb,5,0.08,Heterozygous Deletion,Unknown,Short stature,Deletion-0.8877
+331330,chr15,22698520,23146102,46XX,447.58 kb,396.75 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Global developmental delay,Deletion-0.8813
+331335,chr15,22652047,23165925,46XX,513.88 kb,416.57 kb,5,0.08,Heterozygous Deletion,Unknown,Abnormality of the face; Hypertelorism; Low-set ears; Retrognathia; Short neck,Deletion-0.8535
+331348,chr15,22757282,23087552,46XY,330.27 kb,330.27 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Global developmental delay,Deletion-0.9304
+331546,chr15,22753658,23146102,46XY,392.44 kb,392.44 kb,5,0.08,Heterozygous Deletion,Unknown,Delayed puberty; Micropenis; Short stature,Deletion-0.9269
+331589,chr15,22834298,23187967,46XY,353.67 kb,353.67 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Autism,Deletion-0.9429
+331670,chr15,22765637,23146102,46XY,380.47 kb,380.47 kb,5,0.08,Heterozygous Deletion,Unknown,Short stature,Deletion-0.9362
+332107,chr15,22729394,23085067,46XY,355.67 kb,335.71 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Autism; Vesicoureteral reflux,Deletion-1
+337761,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Motor delay,Deletion-1
+338084,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Intellectual disability,Deletion-1
+338499,chr15,22765628,23179948,unknown,414.32 kb,414.32 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Intellectual disability; Areflexia; Delayed speech and language development; Genu valgum; Hyperlordosis; Inverted nipples; Joint hyperflexibility; Pes planus; Scoliosis; Short stature; Stroke-like episode; Wide intermamillary distance,Deletion-1
+338722,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Intellectual disability; Behavioral abnormality,Deletion-1
+339730,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion-1
+339817,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Attention deficit hyperactivity disorder,Deletion-1
+339822,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Intellectual disability,Deletion-1
+345467,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Global developmental delay,Deletion-1
+350434,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Intellectual disability,Deletion-1
+351732,chr15,22765637,23146102,46XX,380.47 kb,380.47 kb,5,0.08,Heterozygous Deletion,Unknown,Microcephaly; Mild short stature; Neurodevelopmental delay,Deletion-0.8498
+351913,chr15,22765628,23082821,46XX,317.19 kb,317.19 kb,5,0.08,Heterozygous Deletion,Unknown,Astigmatism; Microcephaly; Specific learning disability; U-Shaped upper lip vermilion,Deletion-0.685
+353890,chr15,22765628,23082821,46XX,317.19 kb,317.19 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Abnormal facial shape; Abnormal heart morphology; Cleft palate,Deletion-1
+355000,chr15,22784523,23076420,46XX,291.90 kb,291.90 kb,5,0.08,Heterozygous Deletion,Unknown,Global developmental delay,Deletion-1
+355203,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Intellectual disability,Deletion-1
+355293,chr15,22784523,23179948,46XY,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Expressive language delay,Deletion-1
+355298,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,Specific learning disability,Deletion-1
+360597,chr15,22765628,23082821,46XX,317.19 kb,317.19 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Behavioral abnormality,Deletion-0.732
+360734,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,Unknown,"Growth delay; Intellectual disability, moderate",Deletion-0.76
+366764,chr15,22784523,23179948,46XX,395.43 kb,395.43 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",,Deletion-0.74
+368727,chr15,22770421,23082237,46XY,311.82 kb,311.82 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Attention deficit hyperactivity disorder; Obesity; Sleep apnea,Deletion
+375942,chr15,22765628,23179948,46XX,414.32 kb,414.32 kb,5,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Abnormal facial shape; Generalized hypotonia; Neonatal intestinal obstruction,Deletion
+375943,chr15,22765628,23076420,46XY,310.79 kb,310.79 kb,5,0.08,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Abnormal facial shape; Delayed speech and language development; Inguinal hernia,Deletion
+375955,chr15,21272376,23208901,46XY,1.94 Mb,459.55 kb,6,0.08,Heterozygous Deletion,"Paternally inherited, constitutive in father",Absent speech; Global developmental delay; Pulmonary artery stenosis; Tricuspid atresia,Deletion
+385293,chr15,22765628,23082821,46XY,317.19 kb,317.19 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion
+391652,chr15,22765628,23087554,46XY,321.93 kb,321.93 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion
+394785,chr15,22784523,23085096,46XX,300.57 kb,300.57 kb,5,0.08,Heterozygous Deletion,Unknown,,Deletion
+249438,chr15,24439559,25113843,unknown,674.28 kb,674.28 kb,4,0.07,Heterozygous Deletion,Unknown,Intellectual disability; Brachycephaly; Delayed speech and language development; Microcephaly; Seizures; Wide mouth,Deletion-1
+255471,chr15,22866888,23179948,46XY,313.06 kb,313.06 kb,4,0.07,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Seizures,Deletion-1
+261435,chr15,22318597,23179948,46XY,861.35 kb,430.60 kb,5,0.07,Heterozygous Deletion,Unknown,,Deletion-1
+264698,chr15,22798636,23088559,46XY,289.92 kb,289.92 kb,4,0.07,Heterozygous Deletion,Unknown,,Deletion-1
+271022,chr15,20686219,23217484,46XY,2.53 Mb,468.13 kb,6,0.07,Heterozygous Deletion,Unknown,,Deletion-0.922
+271671,chr15,20750153,23217484,46XY,2.47 Mb,468.13 kb,6,0.07,Heterozygous Deletion,Unknown,,Deletion-0.886
+275263,chr15,22318597,23076420,46XY,757.82 kb,327.07 kb,5,0.07,Heterozygous Deletion,Inherited from parent with unknown phenotype,Abnormality of higher mental function,Deletion-1
+279285,chr15,20686218,23217484,46XY,2.53 Mb,468.13 kb,6,0.07,Heterozygous Deletion,Unknown,,Deletion-0.831
+296652,chr15,22815607,23146103,46XX,330.50 kb,330.50 kb,4,0.07,Heterozygous Deletion,Unknown,Autistic behavior; Inflammation of the large intestine; Inflammatory abnormality of the eye; Low-set ears; Pleural effusion; Short nose; Short stature,Deletion-1
+343344,chr15,20575646,23217514,46XY,2.64 Mb,468.16 kb,6,0.07,Heterozygous Deletion,Unknown,Intellectual disability; Attention deficit hyperactivity disorder,Deletion-0.705
+356933,chr15,22833375,23086456,46XX,253.08 kb,253.08 kb,4,0.07,Heterozygous Deletion,Unknown,,Deletion-1
+249268,chr15,20849110,23085037,46XX,2.24 Mb,335.68 kb,5,0.06,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+251332,chr15,20849110,23085096,46XY,2.24 Mb,335.74 kb,5,0.06,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Seizures,Deletion-1
+253672,chr15,20849110,23076420,46XX,2.23 Mb,327.07 kb,5,0.06,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Muscular hypotonia; Abnormality of the face; Brachycephaly; Frontal bossing; Joint laxity; Midface retrusion; Pes planus; Round face,Deletion-0.67
+262593,chr15,20481702,23179948,46XY,2.70 Mb,430.60 kb,5,0.06,Heterozygous Deletion,Inherited from parent with similar phenotype to child,,Deletion-1
+264676,chr15,20849110,23179948,46XY,2.33 Mb,430.60 kb,5,0.06,Heterozygous Deletion,Unknown,,Deletion-1
+265749,chr15,20575586,23180008,46XY,2.60 Mb,430.65 kb,5,0.06,Heterozygous Deletion,De novo constitutive,Muscular hypotonia; Decreased fetal movement; Hypothyroidism; Proportionate short stature; Short stature,Deletion-1
+270652,chr15,20575646,23179948,46XY,2.60 Mb,430.60 kb,5,0.06,Heterozygous Deletion,Inherited from normal parent,,Deletion-1
+280880,chr15,20575646,23076420,46XX,2.50 Mb,327.07 kb,5,0.06,Heterozygous Deletion,"Paternally inherited, constitutive in father",,Deletion-1
+280887,chr15,20603042,23179948,46XX,2.58 Mb,430.60 kb,5,0.06,Heterozygous Deletion,"Maternally inherited, constitutive in mother","Behavioral abnormality; Intellectual disability, moderate",Deletion-1
+282150,chr15,20481702,23076420,46XY,2.59 Mb,327.07 kb,5,0.06,Heterozygous Deletion,"Paternally inherited, constitutive in father","Intellectual disability, moderate; Seizures",Deletion-1
+282207,chr15,20686219,23146103,46XY,2.46 Mb,396.75 kb,5,0.06,Heterozygous Deletion,Unknown,Autistic behavior; Moderate expressive language delay,Deletion-1
+268018,chr15,20686219,23146103,46XY,2.46 Mb,396.75 kb,5,0.06,Heterozygous Deletion,Unknown,Intellectual disability; Abnormal heart morphology; Autism; Frontal bossing; Hypoplastic philtrum; Low hanging columella; Low-set ears; Macrocephaly; Microtia; Thick eyebrow; Thin upper lip vermilion; Underdeveloped nasal alae,Deletion-1
+303550,chr15,20575646,23179948,46XX,2.60 Mb,430.60 kb,5,0.06,Heterozygous Deletion,Unknown,,Deletion-1
+304623,chr15,20575646,23179948,46XY,2.60 Mb,430.60 kb,5,0.06,Heterozygous Deletion,Unknown,Global developmental delay; Seizures,Deletion-1
+307716,chr15,20575646,23179948,46XY,2.60 Mb,430.60 kb,5,0.06,Heterozygous Deletion,Unknown,Attention deficit hyperactivity disorder; Cognitive impairment; Tetralogy of Fallot,Deletion-1
+337541,chr15,20575646,23179948,46XX,2.60 Mb,430.60 kb,5,0.06,Heterozygous Deletion,Unknown,Expressive language delay,Deletion-1
+340174,chr15,20481702,23179948,46XX,2.70 Mb,430.60 kb,5,0.06,Heterozygous Deletion,Unknown,Epicanthus; Hemifacial hypoplasia; Micrognathia,Deletion-1
+363833,chr15,20416244,23082821,46XX,2.67 Mb,333.47 kb,5,0.06,Heterozygous Deletion,"Paternally inherited, constitutive in father",Impaired social interactions; Specific learning disability,Deletion-0.770918
+391651,chr15,20432851,23167758,46XX,2.73 Mb,418.40 kb,5,0.06,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Delayed gross motor development; Delayed speech and language development; Febrile seizures; Hip dysplasia; Sacral dimple,Deletion
+289504,chr15,23403580,23569459,unknown,165.88 kb,165.88 kb,3,0.05,Heterozygous Deletion,Unknown,,Deletion-0.609786
+375947,chr15,22903489,23059073,46XX,155.59 kb,155.59 kb,3,0.05,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Abnormal social behavior; Autistic behavior; Delayed speech and language development,Deletion
+402196,chr15,22289963,22985532,46XY,695.57 kb,236.18 kb,3,0.04,Heterozygous Deletion,Imbalance arising from a balanced parental rearrangement,Intellectual disability; Delayed speech and language development; Gait disturbance; Low-set ears; Narrow chest; Pectus excavatum; Plagiocephaly; Recurrent infections; Scoliosis; Slender finger; Small for gestational age; Strabismus; Webbed neck,Deletion-0.5
+637,chr15,22812353,22990924,46XX,178.57 kb,178.57 kb,2,0.03,Heterozygous Deletion,Inherited from normal parent,Intellectual disability; Short stature,Deletion-0.52
+1047,chr15,22812353,22990924,46XX,178.57 kb,178.57 kb,2,0.03,Heterozygous Deletion,Unknown,Intellectual disability; Muscular hypotonia; Autism; Behavioral abnormality; Microtia,Deletion-0.4
+1233,chr15,22812353,22990924,46XX,178.57 kb,178.57 kb,2,0.03,Heterozygous Deletion,Unknown,Intellectual disability; Autism; Delayed speech and language development; Frontal upsweep of hair; Hyperactivity; Hypoplasia of the maxilla; Proportionate short stature; Sandal gap; Seizures; Stereotypy; Talipes equinovarus,Deletion-0.5
+259974,chr15,25582449,25583525,46XX,1.08 kb,1.08 kb,2,0.03,Heterozygous Deletion,Inherited from normal parent,,Deletion-0.854
+264659,chr15,25185541,25219400,46XX,33.86 kb,33.86 kb,2,0.03,Heterozygous Deletion,Unknown,Intellectual disability,Deletion-1
+283955,chr15,25582449,25583525,46XX,1.08 kb,1.08 kb,2,0.03,Heterozygous Deletion,Unknown,,Deletion-1.032
+314795,chr15,25332916,25333874,46XX,959 bp,959 bp,2,0.03,Heterozygous Deletion,De novo constitutive,,Deletion-1
+318347,chr15,25577060,25735240,46XY,158.18 kb,158.18 kb,2,0.03,Heterozygous Deletion,De novo constitutive,,Deletion-1
+331601,chr15,23041321,23187967,46XY,146.65 kb,146.65 kb,2,0.03,Heterozygous Deletion,Unknown,Seizures,Deletion-0.955
+370081,chr15,25583408,25717757,46XY,134.35 kb,134.35 kb,2,0.03,Heterozygous Deletion,De novo constitutive,Intellectual disability; Seizures,Deletion
+284751,chr15,24384453,24470140,46XY,85.69 kb,85.69 kb,1,0.02,Heterozygous Deletion,Unknown,Abnormality of the dentition; Delayed speech and language development; Few cafe-au-lait spots; Pes planus; Recurrent pneumonia; Scoliosis; Syringomyelia,Deletion-1
+288263,chr15,25092210,25114364,46XY,22.16 kb,22.16 kb,1,0.02,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Tetralogy of Fallot,Deletion-1.0282
+288292,chr15,25066167,25082506,46XY,16.34 kb,16.34 kb,1,0.02,Heterozygous Deletion,Unknown,Feeding difficulties in infancy; Abnormality of skull size,Deletion-0.7355
+288970,chr15,23085242,23087420,unknown,2.18 kb,2.18 kb,1,0.02,Heterozygous Deletion,Unknown,Intellectual disability; Autism,Deletion-0.378885
+289742,chr15,25092210,25114364,46XY,22.16 kb,22.16 kb,1,0.02,Heterozygous Deletion,Unknown,,Deletion-0.987
+289742,chr15,30888776,32509932,46XY,22.16 kb,22.16 kb,1,0.02,Heterozygous Deletion,Unknown,,Deletion-0.8553
+289867,chr15,28164267,28219617,unknown,55.35 kb,55.35 kb,1,0.02,Heterozygous Deletion,Unknown,"Inappropriate behavior; Intellectual disability, mild; Obesity; Tall stature",Deletion-0.899143
+289867,chr15,89751507,89766041,unknown,55.35 kb,55.35 kb,1,0.02,Heterozygous Deletion,Unknown,"Inappropriate behavior; Intellectual disability, mild; Obesity; Tall stature",Deletion-0.793019
+293178,chr15,25121395,25131065,46XY,9.67 kb,9.67 kb,1,0.02,Heterozygous Deletion,Unknown,,Deletion-0.993
+295629,chr15,24384453,24487834,46XY,103.38 kb,103.38 kb,1,0.02,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Abnormal muscle tone; Delayed speech and language development; Global developmental delay; Poor suck,Deletion-1
+331052,chr15,25092210,25114364,46XY,22.16 kb,22.16 kb,1,0.02,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Autistic behavior; Global developmental delay,Deletion-1.0409
+331186,chr15,25092210,25114364,46XY,22.16 kb,22.16 kb,1,0.02,Heterozygous Deletion,"Paternally inherited, constitutive in father",Abnormality of the face; Myopathy,Deletion-0.8778
+331405,chr15,25068901,25082506,46XY,13.61 kb,13.61 kb,1,0.02,Heterozygous Deletion,Unknown,Intellectual disability,Deletion-0.8384
+331554,chr15,25092210,25114364,46XY,22.16 kb,22.16 kb,1,0.02,Heterozygous Deletion,Unknown,"Hearing impairment; Intellectual disability, mild",Deletion-0.8744
+338625,chr15,26812822,26886114,46XY,73.29 kb,73.29 kb,1,0.02,Heterozygous Deletion,Unknown,Autistic behavior; Delayed speech and language development,Deletion-1
+257138,chr15,28436344,32510863,46XX,4.07 Mb,1.92 kb,1,0.01,Heterozygous Deletion,Unknown,,Deletion-1
+262590,chr15,28464069,32636100,46XY,4.17 Mb,0 bp,1,0.01,Heterozygous Deletion,Inherited from parent with similar phenotype to child,Cognitive impairment; Hyperactivity; Macrocephaly; Obesity; Tall stature,Deletion-1
+265361,chr15,28535007,32914140,46XY,4.38 Mb,0 bp,1,0.01,Heterozygous Deletion,Unknown,,Deletion-1
+349417,chr15,28494202,30614607,46XY,2.12 Mb,0 bp,1,0.01,Heterozygous Deletion,Unknown,Chronic constipation; Delayed gross motor development; Moderate expressive language delay,Deletion-0.375
+351973,chr15,28530182,30369769,46XX,1.84 Mb,0 bp,1,0.01,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Overweight; Polyphagia,Deletion-1
+351973,chr15,29668495,29727598,46XX,1.84 Mb,0 bp,1,0.01,Heterozygous Deletion,"Maternally inherited, constitutive in mother",Overweight; Polyphagia,Deletion-2
+318415,chr15,20481702,22765687,unknown,2.28 Mb,16.33 kb,0,0.0,Heterozygous Deletion,Unknown,Intellectual disability; Abnormal fear/anxiety-related behavior; Aggressive behavior; Autism; Seizures,Deletion-0.94
